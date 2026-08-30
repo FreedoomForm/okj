@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "парк Панфилова Ташкент старое фото колесо обозрения",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e5c3e97c1340.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "2080px",
+      "original_height": "4624px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1d87ad97960c.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9709ad69369e.jpg",
+      "caption": "",
+      "source": "Кактус.медиа",
+      "original_width": "960px",
+      "original_height": "952px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bd126501cf38.jpg",
+      "caption": "",
+      "source": "IRecommend",
+      "original_width": "900px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9b58f5384c73.jpg",
+      "caption": "",
+      "source": "Генплан Великого Новгорода",
+      "original_width": "960px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2d6fdd8058b0.jpg",
+      "caption": "",
+      "source": "uzbekistan.travel",
+      "original_width": "1100px",
+      "original_height": "733px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e4de0da8a543.jpg",
+      "caption": "",
+      "source": "Dreamstime",
+      "original_width": "1600px",
+      "original_height": "1157px"
+    }
+  ]
+}

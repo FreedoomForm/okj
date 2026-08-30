@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "Humo Arena Ташкент ледовый дворец",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b7ba6499d148.jpg",
+      "caption": "",
+      "source": "Агентство новостей Podrobno.uz",
+      "original_width": "1280px",
+      "original_height": "907px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b1a83d30ac79.jpg",
+      "caption": "",
+      "source": "1portal.io",
+      "original_width": "1362px",
+      "original_height": "1030px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5a0b0fa900cb.jpg",
+      "caption": "",
+      "source": "Пикабу",
+      "original_width": "1600px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5427f068390f.jpg",
+      "caption": "",
+      "source": "Yuz.uz",
+      "original_width": "1152px",
+      "original_height": "767px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bb869cdd2a68.jpeg",
+      "caption": "",
+      "source": "Фергана",
+      "original_width": "1250px",
+      "original_height": "765px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4f931c9b658b.jpg",
+      "caption": "",
+      "source": "1portal.io",
+      "original_width": "1366px",
+      "original_height": "1032px"
+    }
+  ]
+}

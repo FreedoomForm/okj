@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "метро площадь Пушкина Ташкент 1977 старое фото станция",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9864b421bc83.jpg",
+      "caption": "",
+      "source": "Sprav.uz",
+      "original_width": "1150px",
+      "original_height": "692px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/18c2efd411a9.jpg",
+      "caption": "",
+      "source": "Goldenpages.uz",
+      "original_width": "1050px",
+      "original_height": "1484px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2b0f7d17a008.jpg",
+      "caption": "",
+      "source": "Ташкентское Метро",
+      "original_width": "1399px",
+      "original_height": "933px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6ba5fdb13127.jpg",
+      "caption": "",
+      "source": "Я живу в Ташкенте. I live in Tashkent.",
+      "original_width": "1200px",
+      "original_height": "679px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1d92e21c343f.jpg",
+      "caption": "",
+      "source": "t.me",
+      "original_width": "1280px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/509f961b1fbc.jpg",
+      "caption": "",
+      "source": "sergeyurich - LiveJournal",
+      "original_width": "810px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/294e81ed822c.jpg",
+      "caption": "",
+      "source": "Бабель",
+      "original_width": "2126px",
+      "original_height": "1345px"
+    }
+  ]
+}

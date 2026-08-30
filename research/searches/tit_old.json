@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "query": "институт инженеров железнодорожного транспорта Ташкент старое фото",
+  "count": 5,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a19a8953b22e.jpg",
+      "caption": "",
+      "source": "Старый Ташкент",
+      "original_width": "1440px",
+      "original_height": "980px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/495c0dfaf8f2.jpg",
+      "caption": "",
+      "source": "Старый Ташкент",
+      "original_width": "960px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f133130013bb.jpg",
+      "caption": "",
+      "source": "Официальный интерактивный портал хокимията города Ташкента",
+      "original_width": "1800px",
+      "original_height": "866px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/14003cbed31c.jpg",
+      "caption": "",
+      "source": "Официальный интерактивный портал хокимията города Ташкента",
+      "original_width": "1282px",
+      "original_height": "813px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9156d6b4e43c.jpg",
+      "caption": "",
+      "source": "Российский государственный педагогический университет им. А. И. Герцена",
+      "original_width": "1449px",
+      "original_height": "1080px"
+    }
+  ]
+}

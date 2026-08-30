@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "памятник Улугбеку Ташкент сегодня",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9d9aea18013c.jpg",
+      "caption": "",
+      "source": "uzbekistan.travel",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/24ddfbc58fba.jpg",
+      "caption": "",
+      "source": "islomkarimov.uz",
+      "original_width": "4000px",
+      "original_height": "2667px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8e3faa591726.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "4032px",
+      "original_height": "3024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4bf6aa42ad3d.jpg",
+      "caption": "",
+      "source": "Avesta.tj",
+      "original_width": "1280px",
+      "original_height": "685px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c0c67b0b6747.jpeg",
+      "caption": "",
+      "source": "Pexels",
+      "original_width": "4157px",
+      "original_height": "6236px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e146dcbbdf77.jpg",
+      "caption": "",
+      "source": "Dreamstime",
+      "original_width": "1600px",
+      "original_height": "1156px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/11a7b320b7f1.jpg",
+      "caption": "",
+      "source": "ALGRI TRAVEL",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e146c3f9760d.jpg",
+      "caption": "",
+      "source": "AsiaTerra",
+      "original_width": "2250px",
+      "original_height": "1500px"
+    }
+  ]
+}

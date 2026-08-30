@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "дом Советов Ташкент старая фотография здание",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/aeae56cd1eff.jpg",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "1920px",
+      "original_height": "2112px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0755122c71ae.jpg",
+      "caption": "",
+      "source": "The Art Newspaper Russia",
+      "original_width": "960px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fbbd0de89f8d.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0b57f7a93411.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1680px",
+      "original_height": "1120px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/785b34481fe8.jpg",
+      "caption": "",
+      "source": "Euronews.com",
+      "original_width": "1280px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f1a771268005.jpg",
+      "caption": "",
+      "source": "Наша Ніва",
+      "original_width": "1920px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7a152a75f9e7.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1680px",
+      "original_height": "1120px"
+    }
+  ]
+}

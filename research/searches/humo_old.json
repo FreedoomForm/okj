@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "дворец культуры авиационного завода Ташкент старое фото",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7c2c3463802c.png",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "3840px",
+      "original_height": "2968px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/32ebb68a9f2f.jpg",
+      "caption": "",
+      "source": "Yep.uz",
+      "original_width": "1600px",
+      "original_height": "1183px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/31bd1156515d.jpg",
+      "caption": "",
+      "source": "foto.papik.pro",
+      "original_width": "1920px",
+      "original_height": "1396px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c71f915e6cbf.png",
+      "caption": "",
+      "source": "YouTravel.Me",
+      "original_width": "1500px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/67c01f672671.jpg",
+      "caption": "",
+      "source": "газеты «Республика Башкортостан",
+      "original_width": "1600px",
+      "original_height": "1069px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9694cf3d7826.jpg",
+      "caption": "",
+      "source": "TEHNE.com",
+      "original_width": "1280px",
+      "original_height": "847px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9aee57a76d42.png",
+      "caption": "",
+      "source": "Гродноинвест",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    }
+  ]
+}

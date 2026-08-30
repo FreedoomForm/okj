@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "планетарий Ташкент сегодня",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/516ecf93b540.jpeg",
+      "caption": "",
+      "source": "ANONS.uz",
+      "original_width": "1280px",
+      "original_height": "877px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/131db9e4b49a.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1290px",
+      "original_height": "860px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2a0f82417418.jpg",
+      "caption": "",
+      "source": "Агентство новостей Podrobno.uz",
+      "original_width": "1024px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fa9d0501e2c2.jpg",
+      "caption": "",
+      "source": "Английская Гимназия New Tone",
+      "original_width": "1280px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e55da68ef32f.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "1080px",
+      "original_height": "1920px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0dd58d3b0b1c.jpg",
+      "caption": "",
+      "source": "Anhor.uz",
+      "original_width": "1280px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0ddfa1cabed7.jpg",
+      "caption": "",
+      "source": "asdr.gov.uz",
+      "original_width": "1200px",
+      "original_height": "675px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f1e4a4017678.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1290px",
+      "original_height": "860px"
+    }
+  ]
+}

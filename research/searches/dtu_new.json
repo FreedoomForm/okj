@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Национальный университет Узбекистана Ташкент главное здание",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/de994f036e3a.png",
+      "caption": "",
+      "source": "Национальный Университет Узбекистана имени Мирзо Улугбека",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/785b34481fe8.jpg",
+      "caption": "",
+      "source": "Euronews.com",
+      "original_width": "1280px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/12f381e14cac.jpg",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "1920px",
+      "original_height": "1208px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/19cbbfe9196b.jpg",
+      "caption": "",
+      "source": "Euronews.com",
+      "original_width": "1280px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/920993686b29.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "3072px",
+      "original_height": "4080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e66f605d6902.png",
+      "caption": "",
+      "source": "Norma.uz",
+      "original_width": "1548px",
+      "original_height": "871px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/81edc11a5f3b.jpg",
+      "caption": "",
+      "source": "NOVA24.UZ",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/aa82449065aa.png",
+      "caption": "",
+      "source": "Career Center - Главная",
+      "original_width": "1628px",
+      "original_height": "1616px"
+    }
+  ]
+}

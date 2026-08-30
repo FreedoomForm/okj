@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "метро станция Амира Темура хиёбони Ташкент зал",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1a1a3191792c.jpg",
+      "caption": "",
+      "source": "Ташкентское Метро",
+      "original_width": "1280px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/15633e8ec38a.jpg",
+      "caption": "",
+      "source": "Tashkent Metro",
+      "original_width": "1600px",
+      "original_height": "1067px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/76fb98783aac.jpg",
+      "caption": "",
+      "source": "uzbekistan.travel",
+      "original_width": "1100px",
+      "original_height": "733px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/692664c24ca4.png",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "996px",
+      "original_height": "1088px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d30fb0bc9abb.jpg",
+      "caption": "",
+      "source": "IRecommend",
+      "original_width": "1600px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5e6e18e986d8.jpg",
+      "caption": "",
+      "source": "4traveler",
+      "original_width": "1070px",
+      "original_height": "803px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4396a2378d0b.jpg",
+      "caption": "",
+      "source": "Kun.uz",
+      "original_width": "1200px",
+      "original_height": "675px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2f0f1a9a8066.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    }
+  ]
+}

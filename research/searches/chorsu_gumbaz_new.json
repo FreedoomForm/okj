@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Чорсу базар купол Ташкент снаружи сегодня",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fcf0f70f5113.jpg",
+      "caption": "",
+      "source": "Официальный интерактивный портал хокимията города Ташкента",
+      "original_width": "1920px",
+      "original_height": "1051px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/af820834625c.jpg",
+      "caption": "",
+      "source": "LiveJournal",
+      "original_width": "1256px",
+      "original_height": "837px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3906824b3f41.jpg",
+      "caption": "",
+      "source": "LiveJournal",
+      "original_width": "1256px",
+      "original_height": "837px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e51f34954d18.jpg",
+      "caption": "",
+      "source": "UzNews.uz",
+      "original_width": "1920px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/de18fa8c0052.jpg",
+      "caption": "",
+      "source": "Trip.com",
+      "original_width": "2310px",
+      "original_height": "1733px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1c888bcf35f5.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "4552px",
+      "original_height": "2800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5b6d74be7c7a.jpg",
+      "caption": "",
+      "source": "UzNews.uz",
+      "original_width": "1434px",
+      "original_height": "804px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c77aa1570bd7.jpg",
+      "caption": "",
+      "source": "Агентство новостей Podrobno.uz",
+      "original_width": "1024px",
+      "original_height": "768px"
+    }
+  ]
+}

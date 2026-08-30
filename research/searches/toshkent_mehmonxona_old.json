@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "гостиница Ташкент 1960-е старая фотография",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e1c3bfbe2eb7.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "968px",
+      "original_height": "968px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0a16db0e4af7.png",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "1920px",
+      "original_height": "1440px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/aacc00d75842.jpg",
+      "caption": "",
+      "source": "LiveJournal",
+      "original_width": "2048px",
+      "original_height": "1751px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/77ffd5d6ce27.jpg",
+      "caption": "",
+      "source": "chilonzor.tashkent.uz",
+      "original_width": "1440px",
+      "original_height": "810px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c5041c483673.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1680px",
+      "original_height": "1119px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e56bcc7e09df.jpg",
+      "caption": "",
+      "source": "Accor",
+      "original_width": "1024px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7bb90b9e113f.png",
+      "caption": "",
+      "source": "Афиша Москвы",
+      "original_width": "1200px",
+      "original_height": "888px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1b75ef247ad9.jpg",
+      "caption": "",
+      "source": "chilonzor.tashkent.uz",
+      "original_width": "1280px",
+      "original_height": "855px"
+    }
+  ]
+}

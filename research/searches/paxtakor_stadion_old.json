@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "стадион Пахтакор Ташкент старая фотография",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/79d5fbd8eb58.jpg",
+      "caption": "",
+      "source": "LiveJournal",
+      "original_width": "2048px",
+      "original_height": "1299px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0fc9832880b3.jpg",
+      "caption": "",
+      "source": "АБФФ",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b859160d7a3f.jpg",
+      "caption": "",
+      "source": "m.vk.ru",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/889683a01b34.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "1170px",
+      "original_height": "790px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9ccfc1ff702b.jpg",
+      "caption": "",
+      "source": "Kun.uz",
+      "original_width": "1280px",
+      "original_height": "852px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f6f85799261a.jpg",
+      "caption": "",
+      "source": "Издательство Tatlin",
+      "original_width": "1600px",
+      "original_height": "617px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0a7eef4685d2.jpg",
+      "caption": "",
+      "source": "TikTok",
+      "original_width": "1080px",
+      "original_height": "1920px"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "кинотеатр Родина Ташкент старая фотография",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4eb027d69404.jpg",
+      "caption": "",
+      "source": "Культурное наследие Узбекистана в собраниях мира",
+      "original_width": "1382px",
+      "original_height": "969px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/589e85519640.png",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "1920px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/915c9967beed.jpg",
+      "caption": "",
+      "source": "Fonar.tv",
+      "original_width": "2560px",
+      "original_height": "1921px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/89cc507a0cc4.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/67f5a7c06f83.png",
+      "caption": "",
+      "source": "Телеканал Поехали!",
+      "original_width": "1620px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0c1df8f7c974.jpg",
+      "caption": "",
+      "source": "Nomads Life",
+      "original_width": "1067px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/94100979546e.jpg",
+      "caption": "",
+      "source": "Дзен",
+      "original_width": "1200px",
+      "original_height": "800px"
+    }
+  ]
+}

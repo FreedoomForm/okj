@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "троллейбус Ташкент старая фотография 1980-е",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/98937e87443d.jpg",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/09af0cf78769.jpg",
+      "caption": "",
+      "source": "TransPhoto",
+      "original_width": "1400px",
+      "original_height": "933px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d3bc4601edc8.jpg",
+      "caption": "",
+      "source": "Telegraph",
+      "original_width": "2964px",
+      "original_height": "2223px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/44d1cdd5f35f.jpg",
+      "caption": "",
+      "source": "TransPhoto",
+      "original_width": "1173px",
+      "original_height": "783px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/99049ba8528b.jpg",
+      "caption": "",
+      "source": "LiveJournal",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/05755718d469.jpg",
+      "caption": "",
+      "source": "Yep.uz",
+      "original_width": "1200px",
+      "original_height": "792px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/77b389f75cca.jpg",
+      "caption": "",
+      "source": "Пикабу",
+      "original_width": "2048px",
+      "original_height": "1152px"
+    }
+  ]
+}

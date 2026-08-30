@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "кинотеатр Узбекистан Ташкент здание сегодня",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3bee8cfb2ebc.png",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "1600px",
+      "original_height": "1067px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/660af46c8017.png",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "1600px",
+      "original_height": "1279px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d15d2ec13c06.png",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "1600px",
+      "original_height": "745px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/747739f34b09.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c659ca4d98d4.jpg",
+      "caption": "",
+      "source": "Агентство новостей Podrobno.uz",
+      "original_width": "1024px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/30fb8cb068c0.jpeg",
+      "caption": "",
+      "source": "tehnikaplus",
+      "original_width": "960px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/eb96ee4b13be.jpg",
+      "caption": "",
+      "source": "tcmall.uz",
+      "original_width": "960px",
+      "original_height": "900px"
+    }
+  ]
+}

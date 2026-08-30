@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "ТЮЗ Ташкент театр юного зрителя старое фото",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4135d3d7bf67.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "4032px",
+      "original_height": "2268px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cb43938e6986.jpg",
+      "caption": "",
+      "source": "Бакинский рабочий",
+      "original_width": "1600px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7cc71d222013.jpg",
+      "caption": "",
+      "source": "lovearch.ru",
+      "original_width": "1280px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/346c83148f12.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e40a2ce1fd68.jpg",
+      "caption": "",
+      "source": "24.KG",
+      "original_width": "962px",
+      "original_height": "908px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e656344830f1.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1100px",
+      "original_height": "1100px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f50941b9ce23.jpg",
+      "caption": "",
+      "source": "Томский Обзор",
+      "original_width": "1500px",
+      "original_height": "1000px"
+    }
+  ]
+}

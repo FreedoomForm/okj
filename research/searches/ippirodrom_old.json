@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "Ташкентский ипподром старая фотография",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d7645af863de.jpg",
+      "caption": "",
+      "source": "Старый Ташкент",
+      "original_width": "1127px",
+      "original_height": "808px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/96c301b3205d.jpg",
+      "caption": "",
+      "source": "t.me",
+      "original_width": "820px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/08ae7f8fb191.jpg",
+      "caption": "",
+      "source": "t-j.ru",
+      "original_width": "2440px",
+      "original_height": "1372px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6fe89c8c6f9d.jpg",
+      "caption": "",
+      "source": "Orda.kz",
+      "original_width": "1280px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/44e6f90471de.jpg",
+      "caption": "",
+      "source": "AsiaTerra",
+      "original_width": "2000px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b76ef37e80aa.jpg",
+      "caption": "",
+      "source": "Узбекистан: блокнот исследователя",
+      "original_width": "1680px",
+      "original_height": "1119px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1e52b20032dc.jpg",
+      "caption": "",
+      "source": "AsiaTerra",
+      "original_width": "2000px",
+      "original_height": "1500px"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "кинотеатр Ташкент сегодня здание",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f05ce233c36f.jpg",
+      "caption": "",
+      "source": "Официальный интерактивный портал хокимията города Ташкента",
+      "original_width": "1400px",
+      "original_height": "933px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a7e0c6fc6880.jpg",
+      "caption": "",
+      "source": "Официальный интерактивный портал хокимията города Ташкента",
+      "original_width": "1681px",
+      "original_height": "919px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/314e14fbfc3a.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3399747731a3.jpeg",
+      "caption": "",
+      "source": "tehnikaplus",
+      "original_width": "960px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2acc4faccc20.jpg",
+      "caption": "",
+      "source": "Архитектура Узбекистана",
+      "original_width": "1136px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bda5d7ebef1f.jpg",
+      "caption": "",
+      "source": "Проект Россия",
+      "original_width": "1200px",
+      "original_height": "1150px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1ecb69aaad50.jpeg",
+      "caption": "",
+      "source": "tehnikaplus",
+      "original_width": "960px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4d7a710f52d7.png",
+      "caption": "",
+      "source": "Компания",
+      "original_width": "1440px",
+      "original_height": "600px"
+    }
+  ]
+}

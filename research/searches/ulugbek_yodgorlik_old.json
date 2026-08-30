@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "памятник Улугбеку Ташкент старая фотография",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/389345a28b9b.jpg",
+      "caption": "",
+      "source": "Tours Uzbekistan & Central Asia Private and Group Tours 2026! Dolores Travel",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/409f3d9612a4.jpg",
+      "caption": "",
+      "source": "tsuos.uz",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e0dacad3bf13.jpg",
+      "caption": "",
+      "source": "Nomad's Land",
+      "original_width": "1280px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/78707febd259.jpg",
+      "caption": "",
+      "source": "RealKZ.com",
+      "original_width": "900px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/91dea11ff9f6.jpg",
+      "caption": "",
+      "source": "dalintourist.ru",
+      "original_width": "1600px",
+      "original_height": "1067px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/13b87754b709.jpg",
+      "caption": "",
+      "source": "Weproject.media",
+      "original_width": "1024px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/709dc138fc70.jpeg",
+      "caption": "",
+      "source": "Туры на Кавказ",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "кабинет министров Узбекистана Ташкент здание",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/be5bb67305e8.jpg",
+      "caption": "",
+      "source": "Новости Узбекистана",
+      "original_width": "1164px",
+      "original_height": "688px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/556eb2972318.jpg",
+      "caption": "",
+      "source": "Spot.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f102879accc1.jpg",
+      "caption": "",
+      "source": "ИА Красная Весна",
+      "original_width": "2048px",
+      "original_height": "1036px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/838dfdd62527.jpg",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "1920px",
+      "original_height": "1920px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0216f112235f.webp",
+      "caption": "",
+      "source": "uzoman-bc.uz",
+      "original_width": "1234px",
+      "original_height": "1143px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5118f9612b93.jpg",
+      "caption": "",
+      "source": "ELTR",
+      "original_width": "1600px",
+      "original_height": "1067px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ee214afa0e9e.jpg",
+      "caption": "",
+      "source": "Yuz.uz",
+      "original_width": "1259px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/64e2a847d02d.jpg",
+      "caption": "",
+      "source": "Kun.uz",
+      "original_width": "1200px",
+      "original_height": "900px"
+    }
+  ]
+}

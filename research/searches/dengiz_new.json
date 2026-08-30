@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Ташкентское море сегодня пляж",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/277e205265e6.jpg",
+      "caption": "",
+      "source": "AsiaTerra",
+      "original_width": "2251px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f122729ca070.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/daa2c58f17b9.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d2268a2daff3.jpg",
+      "caption": "",
+      "source": "IRecommend",
+      "original_width": "1600px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ca796b49ee4b.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2d52135d8b1a.jpg",
+      "caption": "",
+      "source": "IRecommend",
+      "original_width": "1600px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/01b64b4facf4.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "2160px",
+      "original_height": "3840px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ab0e4a3e87d0.jpg",
+      "caption": "",
+      "source": "UzNews.uz",
+      "original_width": "1434px",
+      "original_height": "804px"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "парк Панфилова Ташкент сегодня колесо обозрения",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/141e2f20f90b.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a9339642ba34.jpg",
+      "caption": "",
+      "source": "Фотографии старого Саратова",
+      "original_width": "1191px",
+      "original_height": "792px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c4ad5ff551fd.jpg",
+      "caption": "",
+      "source": "Nomads Life",
+      "original_width": "1024px",
+      "original_height": "771px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f746a0b81e1e.jpg",
+      "caption": "",
+      "source": "Trip.com",
+      "original_width": "800px",
+      "original_height": "1066px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/920b0fdd7007.jpg",
+      "caption": "",
+      "source": "Ak Yol Travel tour agency",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f20db835ca49.jpg",
+      "caption": "",
+      "source": "Weproject.media",
+      "original_width": "1400px",
+      "original_height": "933px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e4fb70772920.jpeg",
+      "caption": "",
+      "source": "Kursiv.kz",
+      "original_width": "1280px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2f4a532a336b.jpg",
+      "caption": "",
+      "source": "Давай Сходим!",
+      "original_width": "800px",
+      "original_height": "1000px"
+    }
+  ]
+}

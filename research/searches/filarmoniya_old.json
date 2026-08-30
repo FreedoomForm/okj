@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "Ташкентская филармония старая фотография",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3e04077c6a83.jpg",
+      "caption": "",
+      "source": "Orda.kz",
+      "original_width": "910px",
+      "original_height": "1202px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/07ad551682d4.jpg",
+      "caption": "",
+      "source": "ANONS.uz",
+      "original_width": "2400px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/23e80c4bce93.png",
+      "caption": "",
+      "source": "Афиша Москвы",
+      "original_width": "1200px",
+      "original_height": "909px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/61726244e42d.jpg",
+      "caption": "",
+      "source": "Дневник путешествий - Global Guide",
+      "original_width": "1129px",
+      "original_height": "714px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9d19415ab041.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cce3e721dc55.jpg",
+      "caption": "",
+      "source": "ANONS.uz",
+      "original_width": "2400px",
+      "original_height": "1600px"
+    }
+  ]
+}

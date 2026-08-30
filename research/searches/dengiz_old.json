@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "Ташкентское море пляж старая фотография 1970-е",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/12920c9342c3.jpg",
+      "caption": "",
+      "source": "Агентство Православных Новостей",
+      "original_width": "1200px",
+      "original_height": "675px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/61726244e42d.jpg",
+      "caption": "",
+      "source": "Дневник путешествий - Global Guide",
+      "original_width": "1129px",
+      "original_height": "714px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bd665e433381.jpg",
+      "caption": "",
+      "source": "forum.awd.ru",
+      "original_width": "1216px",
+      "original_height": "913px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8ee969c0e5ee.jpg",
+      "caption": "",
+      "source": "термальные источники мира",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/486910c3b185.jpg",
+      "caption": "",
+      "source": "forum.awd.ru",
+      "original_width": "1216px",
+      "original_height": "913px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0bba4871d34e.jpg",
+      "caption": "",
+      "source": "art-most.com",
+      "original_width": "2000px",
+      "original_height": "2001px"
+    }
+  ]
+}

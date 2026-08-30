@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Ташкентский государственный технический университет главное здание",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4641fb0ddf6a.jpg",
+      "caption": "",
+      "source": "tsuos.uz",
+      "original_width": "1200px",
+      "original_height": "675px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e88c3f2bf438.png",
+      "caption": "",
+      "source": "UzSWLU.Uz",
+      "original_width": "6000px",
+      "original_height": "4000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e66f605d6902.png",
+      "caption": "",
+      "source": "Norma.uz",
+      "original_width": "1548px",
+      "original_height": "871px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b9fa5ec1d723.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "1778px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2312ca571836.jpg",
+      "caption": "",
+      "source": "THE TECH",
+      "original_width": "2560px",
+      "original_height": "1707px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/824334aac46f.png",
+      "caption": "",
+      "source": "Toshkent Davlat Texnika Universiteti",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6550fa35963e.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6d9ab8ffe6d6.jpg",
+      "caption": "",
+      "source": "Новости БНТУ",
+      "original_width": "1200px",
+      "original_height": "800px"
+    }
+  ]
+}

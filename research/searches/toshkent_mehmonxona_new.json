@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "гостиница Ташкент сегодня здание",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1ef84f9c05e4.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1280px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5b5c5e735473.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e7df1fabd7c7.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "960px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9d3473d50b93.jpg",
+      "caption": "",
+      "source": "Агентство новостей Podrobno.uz",
+      "original_width": "1024px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fe242e882cac.jpg",
+      "caption": "",
+      "source": "Review.uz",
+      "original_width": "1400px",
+      "original_height": "934px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/027daac9e457.jpg",
+      "caption": "",
+      "source": "Reikartz",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4210b217237b.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "2604px",
+      "original_height": "4624px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7e6f466028c0.jpeg",
+      "caption": "",
+      "source": "РБК Стиль",
+      "original_width": "1920px",
+      "original_height": "1280px"
+    }
+  ]
+}

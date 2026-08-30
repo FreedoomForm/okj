@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Государственная филармония Узбекистана Ташкент сегодня",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/95c99a31da92.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "3024px",
+      "original_height": "4032px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d2e98c4eb71c.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/68c33780dd58.jpg",
+      "caption": "",
+      "source": "anons.uz",
+      "original_width": "1672px",
+      "original_height": "940px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8eb071c2d3ca.jpg",
+      "caption": "",
+      "source": "Новости Узбекистана",
+      "original_width": "1280px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0094747a722d.jpg",
+      "caption": "",
+      "source": "President.az",
+      "original_width": "1340px",
+      "original_height": "893px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3c3a5a284a45.jpg",
+      "caption": "",
+      "source": "tashkent.uz",
+      "original_width": "1024px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5c4ba9795f12.jpg",
+      "caption": "",
+      "source": "Новости Узбекистана",
+      "original_width": "1280px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/89bcf992fdf4.jpg",
+      "caption": "",
+      "source": "Генеральное консульство Республики Узбекистан в городе Новосибирск",
+      "original_width": "1080px",
+      "original_height": "1080px"
+    }
+  ]
+}

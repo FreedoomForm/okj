@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "улица Амира Темура Ташкент сегодня транспорт",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b422df15c458.jpg",
+      "caption": "",
+      "source": "Агентство новостей Podrobno.uz",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/619037519432.jpg",
+      "caption": "",
+      "source": "NOVA24.UZ — Новости Узбекистана",
+      "original_width": "1280px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0b545577b05d.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f36998ef032c.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "4000px",
+      "original_height": "3000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0955c58502b7.jpg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "4284px",
+      "original_height": "5712px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a0597801a28f.jpg",
+      "caption": "",
+      "source": "ANONS.uz",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f36db48f1ed7.jpg",
+      "caption": "",
+      "source": "uz.kursiv.media",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e247a1792419.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "800px"
+    }
+  ]
+}

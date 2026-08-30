@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "памятник Шевченко Ташкент старая фотография",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f36998ef032c.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "4000px",
+      "original_height": "3000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/398e5a6acc58.jpg",
+      "caption": "",
+      "source": "Vesti.uz",
+      "original_width": "1680px",
+      "original_height": "1231px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1edc1f4f4c18.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c799dfe95a39.jpg",
+      "caption": "",
+      "source": "Meros",
+      "original_width": "1200px",
+      "original_height": "851px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/560be2bec703.jpg",
+      "caption": "",
+      "source": "Старый Ташкент",
+      "original_width": "1400px",
+      "original_height": "988px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/662561dc92df.jpg",
+      "caption": "",
+      "source": "Газета.uz - Gazeta.uz",
+      "original_width": "1680px",
+      "original_height": "2100px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/35d619cdad86.jpg",
+      "caption": "",
+      "source": "AsiaTerra",
+      "original_width": "2251px",
+      "original_height": "1500px"
+    }
+  ]
+}

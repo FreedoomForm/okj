@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "планетарий Ташкент старая фотография",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fafb7300dca9.jpg",
+      "caption": "",
+      "source": "Shutterstock",
+      "original_width": "1500px",
+      "original_height": "1101px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8a85abf8b289.jpg",
+      "caption": "",
+      "source": "Tours Uzbekistan & Central Asia Private and Group Tours 2026! Dolores Travel",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3a1b68e7a532.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "1920px",
+      "original_height": "868px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5d547e34816b.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/23e80c4bce93.png",
+      "caption": "",
+      "source": "Афиша Москвы",
+      "original_width": "1200px",
+      "original_height": "909px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4f7f76256865.jpg",
+      "caption": "",
+      "source": "Sputnik8",
+      "original_width": "1600px",
+      "original_height": "1066px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3974fac7829d.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "665px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/577703c99e11.jpg",
+      "caption": "",
+      "source": "Make-Trip.ru",
+      "original_width": "1067px",
+      "original_height": "1600px"
+    }
+  ]
+}

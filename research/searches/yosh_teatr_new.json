@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Молодёжный театр Узбекистана Ташкент сегодня",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bb40422f50ac.jpg",
+      "caption": "",
+      "source": "Официальный интерактивный портал хокимията города Ташкента",
+      "original_width": "1920px",
+      "original_height": "1440px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c89471bf0e4d.jpeg",
+      "caption": "",
+      "source": "uzbekistan.travel",
+      "original_width": "1100px",
+      "original_height": "733px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/eabe3fe04dcd.jpg",
+      "caption": "",
+      "source": "ТулаСМИ",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7c3744eec509.jpg",
+      "caption": "",
+      "source": "Afisha.uz",
+      "original_width": "1489px",
+      "original_height": "993px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9367d919e23e.jpg",
+      "caption": "",
+      "source": "Osiyo Palace",
+      "original_width": "1200px",
+      "original_height": "762px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0ed321444ea5.jpg",
+      "caption": "",
+      "source": "Kultura.uz",
+      "original_width": "6720px",
+      "original_height": "4480px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ab43ff122ae0.jpg",
+      "caption": "",
+      "source": "IRecommend",
+      "original_width": "673px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/28a17c3f0d8b.jpg",
+      "caption": "",
+      "source": "Centrum Air",
+      "original_width": "6720px",
+      "original_height": "4480px"
+    }
+  ]
+}

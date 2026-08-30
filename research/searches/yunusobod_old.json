@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Юнусабадский массив Ташкент 1980-е старое фото",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fbf2e7690a3e.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/14003cbed31c.jpg",
+      "caption": "",
+      "source": "Официальный интерактивный портал хокимията города Ташкента",
+      "original_width": "1282px",
+      "original_height": "813px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0bedfb49e5ab.jpg",
+      "caption": "",
+      "source": "Письма о Ташкенте - RSSing.com",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/56ed265b225c.jpg",
+      "caption": "",
+      "source": "OLX.uz",
+      "original_width": "1496px",
+      "original_height": "2000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/86d775075c4a.jpg",
+      "caption": "",
+      "source": "Газета.uz - Gazeta.uz",
+      "original_width": "1680px",
+      "original_height": "1120px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a68f6cfb6b4a.png",
+      "caption": "",
+      "source": "РУВИКИ",
+      "original_width": "2550px",
+      "original_height": "2480px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/da5aa535a312.jpg",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "1280px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/52abe43d50c5.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    }
+  ]
+}

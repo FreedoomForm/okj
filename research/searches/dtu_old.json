@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "query": "Ташкентский государственный университет старое фото главное здание",
+  "count": 5,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8b826742d2ee.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/648c9c755f69.jpg",
+      "caption": "",
+      "source": "Yep.uz",
+      "original_width": "1233px",
+      "original_height": "823px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fc98b63352f7.jpg",
+      "caption": "",
+      "source": "Euronews.com",
+      "original_width": "1280px",
+      "original_height": "719px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4f7f76256865.jpg",
+      "caption": "",
+      "source": "Sputnik8",
+      "original_width": "1600px",
+      "original_height": "1066px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5b826fa73f88.jpg",
+      "caption": "",
+      "source": "Экстрагид",
+      "original_width": "1300px",
+      "original_height": "867px"
+    }
+  ]
+}

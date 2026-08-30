@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "памятник Шевченко Ташкент сегодня",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e05a8bf54f8b.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "3024px",
+      "original_height": "4032px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6fd2c66ede9d.jpg",
+      "caption": "",
+      "source": "MyTashkent.Uz",
+      "original_width": "1800px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8305450dc96a.jpg",
+      "caption": "",
+      "source": "Главная страница",
+      "original_width": "1024px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d1fe0aefd3f2.jpg",
+      "caption": "",
+      "source": "Евразия.Эксперт",
+      "original_width": "1023px",
+      "original_height": "851px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e9d3b847cdb2.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "4224px",
+      "original_height": "5632px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/62405b1653fd.jpg",
+      "caption": "",
+      "source": "syg.ma",
+      "original_width": "4032px",
+      "original_height": "3024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/421f00774e4d.jpg",
+      "caption": "",
+      "source": "34travel",
+      "original_width": "1500px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/be8b17028a26.jpg",
+      "caption": "",
+      "source": "OrexCA.com",
+      "original_width": "900px",
+      "original_height": "1006px"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "кинотеатр Ташкент старая фотография здание",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4eb027d69404.jpg",
+      "caption": "",
+      "source": "Культурное наследие Узбекистана в собраниях мира",
+      "original_width": "1382px",
+      "original_height": "969px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bda5d7ebef1f.jpg",
+      "caption": "",
+      "source": "Проект Россия",
+      "original_width": "1200px",
+      "original_height": "1150px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f2a16b5c161b.jpg",
+      "caption": "",
+      "source": "Экстрагид",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8ac6a3d46353.jpg",
+      "caption": "",
+      "source": "Архитектура Узбекистана",
+      "original_width": "894px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b4937a659ab9.jpg",
+      "caption": "",
+      "source": "VK Видео",
+      "original_width": "1280px",
+      "original_height": "700px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/68e148833f1f.jpg",
+      "caption": "",
+      "source": "Экстрагид",
+      "original_width": "1900px",
+      "original_height": "1425px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b3fc03748398.jpg",
+      "caption": "",
+      "source": "Экстрагид",
+      "original_width": "1600px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2fe40e24be1c.jpg",
+      "caption": "",
+      "source": "Архи Ру",
+      "original_width": "1200px",
+      "original_height": "900px"
+    }
+  ]
+}

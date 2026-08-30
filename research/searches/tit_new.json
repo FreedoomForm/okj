@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Ташкентский институт инженеров железнодорожного транспорта сегодня",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/169af77809a0.png",
+      "caption": "",
+      "source": "talimtelekanali.uz",
+      "original_width": "935px",
+      "original_height": "1245px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2dc4c53123ec.jpg",
+      "caption": "",
+      "source": "chilonzor.tashkent.uz",
+      "original_width": "1494px",
+      "original_height": "874px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8d26bac696b9.jpg",
+      "caption": "",
+      "source": "АО «Узбекистон темир йуллари» | Архив новостей",
+      "original_width": "1555px",
+      "original_height": "1037px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5318e4e5cad0.jpg",
+      "caption": "",
+      "source": "Қазақстан теміржолшысы",
+      "original_width": "2100px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7daf38fd3325.jpg",
+      "caption": "",
+      "source": "РИА Новости",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/abf6bb83e6ac.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5025a8679fa6.jpg",
+      "caption": "",
+      "source": "Daryo",
+      "original_width": "1280px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e6869b0d6836.jpg",
+      "caption": "",
+      "source": "АО «Узбекистон темир йуллари» | Медиа центр",
+      "original_width": "1280px",
+      "original_height": "960px"
+    }
+  ]
+}
