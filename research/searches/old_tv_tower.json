@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Tashkent TV tower 1980s historical photo",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a41c59af1c13.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "685px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0e7e3139c473.jpg",
+      "caption": "",
+      "source": "Uzbek Travel",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9bcc74db7380.jpeg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "1381px",
+      "original_height": "2008px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9ada1744df70.jpg",
+      "caption": "",
+      "source": "eBay",
+      "original_width": "857px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4f49a3bb96a7.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9bc23d08e530.jpg",
+      "caption": "",
+      "source": "IJF",
+      "original_width": "1620px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1cc196e52798.jpg",
+      "caption": "",
+      "source": "PIN–UP Magazine",
+      "original_width": "2000px",
+      "original_height": "1472px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/55415936f10b.jpg",
+      "caption": "",
+      "source": "Yandex",
+      "original_width": "960px",
+      "original_height": "1280px"
+    }
+  ]
+}

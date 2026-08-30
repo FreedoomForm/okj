@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Tashkent cityscape panorama 1980s Soviet photo",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/39ae9614582c.jpg",
+      "caption": "",
+      "source": "shomei-tanteidan.org",
+      "original_width": "2236px",
+      "original_height": "674px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3c066c0abec9.jpg",
+      "caption": "",
+      "source": "Wallpaper",
+      "original_width": "1460px",
+      "original_height": "2204px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0b1e1826bd50.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "911px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a31020358d86.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/059e5ebde473.jpg",
+      "caption": "",
+      "source": "CNN",
+      "original_width": "1479px",
+      "original_height": "831px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4602a42e0324.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "862px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2d286fe876f7.jpg",
+      "caption": "",
+      "source": "Soviet Modernism 1955-1991",
+      "original_width": "1280px",
+      "original_height": "877px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f5c0674e232c.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    }
+  ]
+}

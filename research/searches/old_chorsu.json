@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Chorsu bazaar Tashkent old historical photo Soviet era",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/663ebac65034.jpg",
+      "caption": "",
+      "source": "Tripbase",
+      "original_width": "1600px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/239244aa7439.jpg",
+      "caption": "",
+      "source": "Daily Sabah",
+      "original_width": "3000px",
+      "original_height": "1688px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b3aedfbb1b3b.jpg",
+      "caption": "",
+      "source": "Enchanting Travels",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/292dceac145d.jpg",
+      "caption": "",
+      "source": "The BIG TRIP! - Substack",
+      "original_width": "1456px",
+      "original_height": "819px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/af28673efb82.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1ae9d39341d1.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "983px",
+      "original_height": "1300px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/21483873a24b.jpeg",
+      "caption": "",
+      "source": "note",
+      "original_width": "1587px",
+      "original_height": "831px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f2af5b31906e.jpg",
+      "caption": "",
+      "source": "Matt's Next Steps",
+      "original_width": "1600px",
+      "original_height": "1067px"
+    }
+  ]
+}

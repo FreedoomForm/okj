@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Hazrat Imam complex Tashkent old historical photograph",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c37a10c3676b.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/548cd16dc4ba.jpg",
+      "caption": "",
+      "source": "Trip.com",
+      "original_width": "1440px",
+      "original_height": "1920px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8ce187a48be5.jpg",
+      "caption": "",
+      "source": "Rexby",
+      "original_width": "2048px",
+      "original_height": "1360px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d3b640617632.jpg",
+      "caption": "",
+      "source": "Trip.com",
+      "original_width": "1455px",
+      "original_height": "1920px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/37f82729367d.jpeg",
+      "caption": "",
+      "source": "Pexels",
+      "original_width": "6000px",
+      "original_height": "4000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/77081f783078.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/aebedbcbbcd4.jpg",
+      "caption": "",
+      "source": "Audley Travel",
+      "original_width": "1920px",
+      "original_height": "685px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0c677081a3c9.jpg",
+      "caption": "",
+      "source": "Indian Vagabond",
+      "original_width": "1280px",
+      "original_height": "720px"
+    }
+  ]
+}

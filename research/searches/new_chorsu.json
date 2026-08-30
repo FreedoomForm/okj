@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "Chorsu bazaar Tashkent modern blue dome",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fb7a1a1ce3b3.jpg",
+      "caption": "",
+      "source": "Dreamstime.com",
+      "original_width": "1600px",
+      "original_height": "1148px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fcf29293c0e3.jpg",
+      "caption": "",
+      "source": "Expedia",
+      "original_width": "3840px",
+      "original_height": "2555px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b04e779ffea8.jpg",
+      "caption": "",
+      "source": "Nomads Life",
+      "original_width": "1067px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3fb9ddd6ad7e.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "957px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cef1b24a747e.jpg",
+      "caption": "",
+      "source": "Travels Of A Bookpacker",
+      "original_width": "2500px",
+      "original_height": "1536px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/51b782220789.jpg",
+      "caption": "",
+      "source": "Remote Lands",
+      "original_width": "1920px",
+      "original_height": "940px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/dd6737f5016f.jpg",
+      "caption": "",
+      "source": "Shutterstock",
+      "original_width": "1500px",
+      "original_height": "775px"
+    }
+  ]
+}

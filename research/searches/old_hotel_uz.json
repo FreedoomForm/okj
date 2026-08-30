@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Hotel Uzbekistan Tashkent 1970s Soviet photo",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/41360e48397c.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1ba7ebbdf6f7.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d9dded7a1080.jpg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "3840px",
+      "original_height": "2560px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f1be36f278d3.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/106bb1f98163.jpg",
+      "caption": "",
+      "source": "Wallpaper",
+      "original_width": "1540px",
+      "original_height": "944px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/49948c2e72e9.jpg",
+      "caption": "",
+      "source": "Cosmographia - Substack",
+      "original_width": "1920px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a56462980239.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1970b41add66.jpg",
+      "caption": "",
+      "source": "CATALYST PLANET",
+      "original_width": "2048px",
+      "original_height": "1365px"
+    }
+  ]
+}

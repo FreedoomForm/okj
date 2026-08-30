@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Amir Timur square Tashkent modern view",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0b2a0407e270.jpg",
+      "caption": "",
+      "source": "Uzbek Travel",
+      "original_width": "1600px",
+      "original_height": "1067px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/44bfc0c76a0b.jpg",
+      "caption": "",
+      "source": "Turkestan Travel",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0634e8ce08f6.jpg",
+      "caption": "",
+      "source": "Uzbek Travel",
+      "original_width": "2048px",
+      "original_height": "1367px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/71ad878714d5.jpg",
+      "caption": "",
+      "source": "travel cocktail",
+      "original_width": "1024px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/baf779f2dad4.jpg",
+      "caption": "",
+      "source": "IKHLAS",
+      "original_width": "1640px",
+      "original_height": "924px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0448ae4f8689.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1100px",
+      "original_height": "1100px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f200b8054f8a.jpeg",
+      "caption": "",
+      "source": "Your Guide to Silk Road Travel in Central Asia",
+      "original_width": "1024px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c840dbfcc2a3.jpeg",
+      "caption": "",
+      "source": "Broader Horizons",
+      "original_width": "1500px",
+      "original_height": "1120px"
+    }
+  ]
+}

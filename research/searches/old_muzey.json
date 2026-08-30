@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Lenin museum Tashkent history museum old Soviet photo",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/be247f165561.jpg",
+      "caption": "",
+      "source": "STIRworld",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/03ebf2316aac.jpg",
+      "caption": "",
+      "source": "PIN–UP Magazine",
+      "original_width": "4000px",
+      "original_height": "3000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5664108480aa.jpg",
+      "caption": "",
+      "source": "Chestnut Journal",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/aecd6b861408.jpg",
+      "caption": "",
+      "source": "Nomads Life",
+      "original_width": "1069px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4cf3ae086bb2.jpg",
+      "caption": "",
+      "source": "STIRworld",
+      "original_width": "1600px",
+      "original_height": "1092px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7174927f05ee.jpg",
+      "caption": "",
+      "source": "Chestnut Journal",
+      "original_width": "1024px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/24ea3a751514.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b8b092b713ba.jpg",
+      "caption": "",
+      "source": "Dreamstime.com",
+      "original_width": "1600px",
+      "original_height": "1157px"
+    }
+  ]
+}

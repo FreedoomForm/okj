@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Kukeldash madrasah Tashkent old photograph",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/64b557f69ca5.jpeg",
+      "caption": "",
+      "source": "dwc.kg",
+      "original_width": "2560px",
+      "original_height": "1706px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7a0f825c0afb.jpg",
+      "caption": "",
+      "source": "Trip.com",
+      "original_width": "1920px",
+      "original_height": "1276px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/de0689fba198.jpg",
+      "caption": "",
+      "source": "DepositPhotos",
+      "original_width": "1600px",
+      "original_height": "982px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a9025ea04c30.jpg",
+      "caption": "",
+      "source": "Shutterstock",
+      "original_width": "1500px",
+      "original_height": "1100px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d24317cd7da8.jpg",
+      "caption": "",
+      "source": "DepositPhotos",
+      "original_width": "1600px",
+      "original_height": "1165px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9f39ec45b4de.jpg",
+      "caption": "",
+      "source": "The Blogs - The Times of Israel",
+      "original_width": "1100px",
+      "original_height": "733px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f30415025bfd.jpg",
+      "caption": "",
+      "source": "123RF",
+      "original_width": "1300px",
+      "original_height": "854px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/db23a866b6a3.jpeg",
+      "caption": "",
+      "source": "Visit Tashkent",
+      "original_width": "1200px",
+      "original_height": "900px"
+    }
+  ]
+}

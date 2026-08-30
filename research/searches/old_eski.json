@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Old Tashkent street mahalla adobe houses historical photo 1900s",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ed4758ad0361.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "867px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/af28673efb82.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2e28add38f5a.jpg",
+      "caption": "",
+      "source": "EastEast",
+      "original_width": "1932px",
+      "original_height": "697px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0867263e7471.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "2088px",
+      "original_height": "1512px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/67b8aaebc04f.png",
+      "caption": "",
+      "source": "Easy-Peasy.AI",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c7a02dbac07f.jpg",
+      "caption": "",
+      "source": "Uzbek Travel",
+      "original_width": "2048px",
+      "original_height": "1365px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fcd6a0ed0600.jpg",
+      "caption": "",
+      "source": "Dukes Avenue",
+      "original_width": "1440px",
+      "original_height": "1920px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f2c5e71cb5a0.jpg",
+      "caption": "",
+      "source": "Remote Lands",
+      "original_width": "1920px",
+      "original_height": "940px"
+    }
+  ]
+}
