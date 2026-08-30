@@ -3,8 +3,11 @@
 Usage: python3 ci/build_sheets.py --shard 0 --shards 6 [--ids "id1 id2 ..."]
 work/images/* -> output/{id}.jpg
 """
-import argparse, math, os
+import argparse, math, os, sys
 from PIL import Image, ImageDraw, ImageFont
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import resolve_ids, shard_ids
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 IMG = os.path.join(ROOT, "work", "images")
@@ -26,12 +29,7 @@ ap.add_argument("--shards", type=int, default=1)
 ap.add_argument("--ids", default="")
 args = ap.parse_args()
 
-ids_avail = sorted({f.rsplit("_old_", 1)[0].rsplit("_new_", 1)[0] for f in os.listdir(IMG)
-                    if f.lower().endswith(VALID) and ("_old_" in f or "_new_" in f)})
-if args.ids.strip():
-    want = [s for s in args.ids.split() if s in ids_avail]
-else:
-    want = [i for n, i in enumerate(ids_avail) if n % args.shards == args.shard]
+want = shard_ids(resolve_ids(args.ids), args.shard, args.shards)
 
 def grid(files, cols=4):
     rows = math.ceil(len(files) / cols) if files else 1

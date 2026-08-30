@@ -7,6 +7,9 @@ Writes output/stats_shard_{i}.json
 import argparse, json, os, ssl, sys, urllib.request
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from common import resolve_ids, shard_ids
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 IMG = os.path.join(ROOT, "work", "images")
 OUT = os.path.join(ROOT, "output")
@@ -26,31 +29,11 @@ ap.add_argument("--shards", type=int, default=1)
 ap.add_argument("--ids", default="")
 args = ap.parse_args()
 
-all_ids = {c["id"] for c in CANDIDATES}
-if args.ids.strip():
-    ids = {s for s in args.ids.split() if s in all_ids}
-else:
-    # complete = both old+new searches have >=1 result
-    ids = set()
-    for c in CANDIDATES:
-        ok_old = ok_new = False
-        for suf in ("old", "new"):
-            p = os.path.join(ROOT, "research", "searches", f"{c['id']}_{suf}.json")
-            if os.path.exists(p):
-                try:
-                    d = json.load(open(p))
-                    if d.get("success") and len(d.get("results", [])) > 0:
-                        if suf == "old": ok_old = True
-                        else: ok_new = True
-                except Exception:
-                    pass
-        if ok_old and ok_new:
-            ids.add(c["id"])
-
-shard_ids = sorted(i for n, i in enumerate(ids) if n % args.shards == args.shard)
+ids = resolve_ids(args.ids)
+shard_ids_list = shard_ids(ids, args.shard, args.shards)
 
 tasks = []
-for cid in shard_ids:
+for cid in shard_ids_list:
     for suf in ("old", "new"):
         p = os.path.join(ROOT, "research", "searches", f"{cid}_{suf}.json")
         if not os.path.exists(p):
@@ -101,8 +84,8 @@ with ThreadPoolExecutor(max_workers=12) as ex:
             if len(stats["errors"]) < 20:
                 stats["errors"].append(f"{futs[f][0]}_{futs[f][1]}_{futs[f][2]}: {s}")
 
-stats["ids_in_shard"] = shard_ids
+stats["ids_in_shard"] = shard_ids_list
 stats["tasks"] = len(tasks)
 with open(os.path.join(OUT, f"stats_shard_{args.shard}.json"), "w") as f:
     json.dump(stats, f, indent=1)
-print(f"shard {args.shard}: ids={len(shard_ids)} tasks={len(tasks)} ok={stats['ok']} exists={stats['exists']} fail={stats['fail']}")
+print(f"shard {args.shard}: ids={len(shard_ids_list)} tasks={len(tasks)} ok={stats['ok']} exists={stats['exists']} fail={stats['fail']}")
