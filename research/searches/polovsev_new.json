@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Музей прикладного искусства Ташкент сегодня",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a3d627950585.jpg",
+      "caption": "",
+      "source": "Официальный интерактивный портал хокимията города Ташкента",
+      "original_width": "1920px",
+      "original_height": "1440px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/475d501fd87b.jpg",
+      "caption": "",
+      "source": "uzbekistan.travel",
+      "original_width": "1100px",
+      "original_height": "825px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/be2ba05fed30.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1100px",
+      "original_height": "1100px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4f4fc551f102.jpg",
+      "caption": "",
+      "source": "Sputnik8",
+      "original_width": "1600px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f44547cf03e0.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1100px",
+      "original_height": "1100px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/06d9326a63fe.jpg",
+      "caption": "",
+      "source": "uzbekistan.travel",
+      "original_width": "1100px",
+      "original_height": "733px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3b17d0eceeff.jpg",
+      "caption": "",
+      "source": "UzNews.uz",
+      "original_width": "1305px",
+      "original_height": "734px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d3fa52022a49.jpg",
+      "caption": "",
+      "source": "uzbekistan.travel",
+      "original_width": "1100px",
+      "original_height": "733px"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Anhor canal Tashkent historical photograph",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2536d944c411.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/63fafec6be48.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "957px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/369d7b5dd601.jpg",
+      "caption": "",
+      "source": "Roads & Kingdoms",
+      "original_width": "3777px",
+      "original_height": "2831px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/217169fff93b.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4a56c34024a7.jpeg",
+      "caption": "",
+      "source": "The Helpful Stranger",
+      "original_width": "768px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ca7f2dc74784.jpg",
+      "caption": "",
+      "source": "The Ultimate Destination for Booking Tours, Experiences, and Attractions in  the UAE.",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/03b59bb15e8c.jpg",
+      "caption": "",
+      "source": "Academia.edu",
+      "original_width": "1729px",
+      "original_height": "1890px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0f4aa5542979.jpg",
+      "caption": "",
+      "source": "Komoot",
+      "original_width": "1152px",
+      "original_height": "2048px"
+    }
+  ]
+}

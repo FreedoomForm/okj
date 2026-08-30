@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "Ташкентская телевизионная башня сегодня",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a338266a25b7.jpg",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "1920px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a03d7b48f02f.jpg",
+      "caption": "",
+      "source": "Central Asia Travel",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1442ea20c924.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/695df6111f6d.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1680px",
+      "original_height": "1119px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3bcf99928ea8.jpg",
+      "caption": "",
+      "source": "Gelio - LiveJournal",
+      "original_width": "1100px",
+      "original_height": "733px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/edb6701c7b6a.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9d2c1a0a3817.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1680px",
+      "original_height": "1120px"
+    }
+  ]
+}

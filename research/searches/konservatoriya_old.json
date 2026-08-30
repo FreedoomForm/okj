@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "Ташкентская консерватория старая фотография",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ed252b1245d6.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3914eadaac0e.jpg",
+      "caption": "",
+      "source": "ANONS.uz",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ecc0ffbaba11.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "960px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/96bdce32856c.jpg",
+      "caption": "",
+      "source": "Москвич Mag",
+      "original_width": "1162px",
+      "original_height": "901px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7025cbc10274.jpg",
+      "caption": "",
+      "source": "Персоны",
+      "original_width": "897px",
+      "original_height": "1240px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a36f72699167.jpeg",
+      "caption": "",
+      "source": "fergana.news",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7f1947c6937f.jpg",
+      "caption": "",
+      "source": "Мастерская",
+      "original_width": "2560px",
+      "original_height": "1920px"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+name: render-pages
+on:
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Why this run (logged only)'
+        required: false
+        default: ''
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: pip install pillow "qrcode[pil]"
+      - run: npm install playwright
+      - run: npx playwright install chromium --with-deps
+      - run: python3 ci/fetch_pair_images.py --shard ${{ matrix.shard }} --shards 8
+      - run: python3 ci/gen_html.py --shard ${{ matrix.shard }} --shards 8
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pages-shard-${{ matrix.shard }}
+          path: output/
+          retention-days: 14

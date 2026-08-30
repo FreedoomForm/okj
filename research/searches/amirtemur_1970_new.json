@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "площадь Амира Темура Ташкент памятник сегодня",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0a3d99d246fe.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/63ade10e121b.jpg",
+      "caption": "",
+      "source": "Гуру Туризма",
+      "original_width": "1920px",
+      "original_height": "1281px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f9c2361f1899.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1100px",
+      "original_height": "1100px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/20fb1996c914.jpg",
+      "caption": "",
+      "source": "uzbekistan.travel",
+      "original_width": "1100px",
+      "original_height": "733px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5f0d7deb1dfe.jpg",
+      "caption": "",
+      "source": "Nomads Life",
+      "original_width": "1067px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1a61dd678295.jpeg",
+      "caption": "",
+      "source": "aboutthepoint.com",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d2942006d8ec.jpg",
+      "caption": "",
+      "source": "uzbekistan.travel",
+      "original_width": "1100px",
+      "original_height": "825px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6e8f1bdf4b22.jpg",
+      "caption": "",
+      "source": "Sputnik8",
+      "original_width": "5752px",
+      "original_height": "3840px"
+    }
+  ]
+}

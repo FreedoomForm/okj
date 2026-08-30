@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "Национальный академический драматический театр Ташкент сегодня",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/82d02fc0d870.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/275d13fe4895.jpg",
+      "caption": "",
+      "source": "Euronews.com",
+      "original_width": "1440px",
+      "original_height": "810px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5b6e426732e6.jpg",
+      "caption": "",
+      "source": "Газета.uz - Gazeta.uz",
+      "original_width": "1256px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ba3f6d2750c7.jpg",
+      "caption": "",
+      "source": "Восточный Экспресс 24",
+      "original_width": "1280px",
+      "original_height": "801px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f7d76d3f2e75.jpg",
+      "caption": "",
+      "source": "Время Н",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ab8a5c4b7be0.jpg",
+      "caption": "",
+      "source": "Yuz.uz",
+      "original_width": "1280px",
+      "original_height": "854px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8d33f5725ae5.jpg",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    }
+  ]
+}

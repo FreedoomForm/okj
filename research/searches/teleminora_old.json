@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "Ташкентская телевизионная башня 1980-е старое фото",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/961d6ebcf9d0.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1e07c93a3afa.png",
+      "caption": "",
+      "source": "Afisha.uz",
+      "original_width": "1595px",
+      "original_height": "2029px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7bb90b9e113f.png",
+      "caption": "",
+      "source": "Афиша Москвы",
+      "original_width": "1200px",
+      "original_height": "888px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5fe97c044231.jpg",
+      "caption": "",
+      "source": "Afisha.uz",
+      "original_width": "1680px",
+      "original_height": "1260px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b6a38bcfb6c8.jpeg",
+      "caption": "",
+      "source": "Петропавловск.news",
+      "original_width": "900px",
+      "original_height": "907px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2c4cfd112279.png",
+      "caption": "",
+      "source": "Афиша Москвы",
+      "original_width": "1200px",
+      "original_height": "890px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/052a24833dfc.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    }
+  ]
+}

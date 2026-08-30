@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "музей истории Узбекистана Ташкент здание сегодня",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/88c2fe8b0b1f.jpg",
+      "caption": "",
+      "source": "Официальный интерактивный портал хокимията города Ташкента",
+      "original_width": "1600px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9bafdca467b7.jpg",
+      "caption": "",
+      "source": "uzbekistan.travel",
+      "original_width": "1100px",
+      "original_height": "733px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4f04073a84c1.jpg",
+      "caption": "",
+      "source": "Explorers",
+      "original_width": "1600px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/02b1c6b167d2.jpg",
+      "caption": "",
+      "source": "Официальный интерактивный портал хокимията города Ташкента",
+      "original_width": "1683px",
+      "original_height": "1038px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1ccc4169e706.jpg",
+      "caption": "",
+      "source": "Агентство новостей Podrobno.uz",
+      "original_width": "1024px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2b0c0f08aaa1.jpg",
+      "caption": "",
+      "source": "PrimaMedia.ru",
+      "original_width": "2000px",
+      "original_height": "1331px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f5c7251cd654.jpg",
+      "caption": "",
+      "source": "Я живу в Ташкенте. I live in Tashkent.",
+      "original_width": "1200px",
+      "original_height": "901px"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "мавзолей Каффаля Шаши Ташкент старое фото",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7cf7ea614964.jpg",
+      "caption": "",
+      "source": "Узбекистан: блокнот исследователя",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1092173162e5.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "3000px",
+      "original_height": "4000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/19e1e086cd30.jpg",
+      "caption": "",
+      "source": "Официальный интерактивный портал хокимията города Ташкента",
+      "original_width": "1564px",
+      "original_height": "1040px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7bd298c36230.jpeg",
+      "caption": "",
+      "source": "Uzbekistan",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/db644f148c51.jpg",
+      "caption": "",
+      "source": "RuTraveller",
+      "original_width": "1084px",
+      "original_height": "1040px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/52b3e14cc3f6.jpg",
+      "caption": "",
+      "source": "Make-Trip.ru",
+      "original_width": "1600px",
+      "original_height": "1067px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ebe260693712.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1100px",
+      "original_height": "1100px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7d264c07d80f.jpg",
+      "caption": "",
+      "source": "Гуру Туризма",
+      "original_width": "1920px",
+      "original_height": "1281px"
+    }
+  ]
+}

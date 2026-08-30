@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "query": "памятник Сабиру Ташкент старая фотография",
+  "count": 5,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/181f71683701.jpg",
+      "caption": "",
+      "source": "Архитектура Узбекистана",
+      "original_width": "1497px",
+      "original_height": "1030px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d0070a334dd1.jpg",
+      "caption": "",
+      "source": "Архитектура Узбекистана",
+      "original_width": "1185px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e8ee150dfadd.jpg",
+      "caption": "",
+      "source": "AsiaTerra",
+      "original_width": "2000px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/24166f8b9569.jpg",
+      "caption": "",
+      "source": "Пикабу",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/560be2bec703.jpg",
+      "caption": "",
+      "source": "Старый Ташкент",
+      "original_width": "1400px",
+      "original_height": "988px"
+    }
+  ]
+}

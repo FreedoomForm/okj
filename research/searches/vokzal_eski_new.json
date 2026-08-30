@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "Ташкентский железнодорожный вокзал здание",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ec3b0cfb3696.jpg",
+      "caption": "",
+      "source": "Маршрут построен",
+      "original_width": "1280px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c1763a0dc54c.jpg",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "1920px",
+      "original_height": "1920px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ee96914f04af.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5b3a659d0f62.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b2e3a035d2a9.jpg",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "1920px",
+      "original_height": "2112px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/35f42fbc87f4.jpg",
+      "caption": "",
+      "source": "Vzglyad.uz",
+      "original_width": "1280px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6f03484f8dd6.png",
+      "caption": "",
+      "source": "o'ztemiryo'lyo'lovchi",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    }
+  ]
+}

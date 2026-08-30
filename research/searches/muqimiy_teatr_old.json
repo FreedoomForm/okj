@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "театр Мукими Ташкент старая фотография",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/555a3bede3a1.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d0c0f8d347d6.jpg",
+      "caption": "",
+      "source": "Мастерская",
+      "original_width": "2560px",
+      "original_height": "1920px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9088a11c6ea4.png",
+      "caption": "",
+      "source": "Aba Travel",
+      "original_width": "1448px",
+      "original_height": "1086px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/189dd89ad554.jpg",
+      "caption": "",
+      "source": "Мастерская",
+      "original_width": "2560px",
+      "original_height": "1920px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/860efd8b5b91.jpg",
+      "caption": "",
+      "source": "34travel",
+      "original_width": "3024px",
+      "original_height": "4032px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/988b8ab5cd20.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/df1bd7804825.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "1080px",
+      "original_height": "1920px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/73278faf0196.jpg",
+      "caption": "",
+      "source": "Новосибирский Музыкальный Театр",
+      "original_width": "1280px",
+      "original_height": "960px"
+    }
+  ]
+}

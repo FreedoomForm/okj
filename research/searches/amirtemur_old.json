@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Amir Timur square Tashkent old historical photograph 1900s",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d447459425be.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1680px",
+      "original_height": "1136px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e46e9e19b0c8.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "957px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9fe586b54bc1.jpg",
+      "caption": "",
+      "source": "Museum Studies Abroad",
+      "original_width": "2048px",
+      "original_height": "1536px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7acefabbc977.jpg",
+      "caption": "",
+      "source": "two flashpackers",
+      "original_width": "1280px",
+      "original_height": "640px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8792f8455881.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/55e086b3d371.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "866px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a11ded4a6515.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1100px",
+      "original_height": "1100px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c6676cd9e30a.jpg",
+      "caption": "",
+      "source": "Budget Bucket List",
+      "original_width": "1063px",
+      "original_height": "800px"
+    }
+  ]
+}

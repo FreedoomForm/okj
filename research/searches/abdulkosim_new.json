@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "медресе Абдулкасыма Ташкент сегодня",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fd412155200e.jpg",
+      "caption": "",
+      "source": "Туристический гид, путеводители, советы и рекомендации для туристов -  PlanetofHotels.com",
+      "original_width": "2400px",
+      "original_height": "1350px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/117f019420f2.jpg",
+      "caption": "",
+      "source": "Central Asia Travel",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2813b4dbaaf3.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6f100c745648.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0c156935668a.jpeg",
+      "caption": "",
+      "source": "HD Magazine - Humo Documentary",
+      "original_width": "8192px",
+      "original_height": "5464px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/24f4fdc435c7.jpg",
+      "caption": "",
+      "source": "Trip.com",
+      "original_width": "1079px",
+      "original_height": "810px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4d6044e9e48f.jpg",
+      "caption": "",
+      "source": "Яндекс Путешествия",
+      "original_width": "964px",
+      "original_height": "1280px"
+    }
+  ]
+}

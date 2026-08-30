@@ -1,2 +1,9 @@
-skills/
-node_modules/
+work/
+output/
+research/images/
+research/pair_sheets/
+research/new_pages/
+research/verify/
+research/orig_pages/
+*.pyc
+__pycache__/

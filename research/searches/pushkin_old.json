@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "памятник Пушкину Ташкент старая фотография",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c1f5579c48a6.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1100px",
+      "original_height": "1100px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/68ceac8c2e6b.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2ac6e6c6438e.jpg",
+      "caption": "",
+      "source": "Близкое эхо",
+      "original_width": "1600px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/281c359d1fc0.jpg",
+      "caption": "",
+      "source": "Русский музей: виртуальный филиал",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/80f79c6fefe2.jpg",
+      "caption": "",
+      "source": "E1",
+      "original_width": "1280px",
+      "original_height": "2276px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/043a50c71419.jpg",
+      "caption": "",
+      "source": "Afisha.ru",
+      "original_width": "1500px",
+      "original_height": "1000px"
+    }
+  ]
+}

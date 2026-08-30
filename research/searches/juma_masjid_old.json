@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "мечеть Джами Ташкент старая фотография 1900-е",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1d5eddbbc0f3.jpg",
+      "caption": "",
+      "source": "Тонкости туризма",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f528aef22f81.jpg",
+      "caption": "",
+      "source": "Central Asia Travel",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/18975dbf2c59.png",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "1920px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f381ceaa78ae.jpg",
+      "caption": "",
+      "source": "Central Asia Travel",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/19da59f2f1ca.jpeg",
+      "caption": "",
+      "source": "Фергана",
+      "original_width": "1200px",
+      "original_height": "676px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/87524f776bdf.jpg",
+      "caption": "",
+      "source": "Avesta.tj",
+      "original_width": "1920px",
+      "original_height": "1280px"
+    }
+  ]
+}

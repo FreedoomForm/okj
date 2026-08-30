@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "Музей прикладного искусства Ташкент старое фото",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/009a7ac3eecc.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "1333px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/57f0961a9c01.jpg",
+      "caption": "",
+      "source": "The Art Newspaper Russia",
+      "original_width": "960px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6693b6dbdd56.jpg",
+      "caption": "",
+      "source": "Официальный интерактивный портал хокимията города Ташкента",
+      "original_width": "1500px",
+      "original_height": "903px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f44547cf03e0.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1100px",
+      "original_height": "1100px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ed29fe69b7f5.jpg",
+      "caption": "",
+      "source": "Экстрагид",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3d67e06eaf77.jpg",
+      "caption": "",
+      "source": "ANONS.uz",
+      "original_width": "1680px",
+      "original_height": "1120px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/355f4d236cdc.jpg",
+      "caption": "",
+      "source": "Darsik",
+      "original_width": "1600px",
+      "original_height": "1067px"
+    }
+  ]
+}

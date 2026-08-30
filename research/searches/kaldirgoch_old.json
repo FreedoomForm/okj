@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "мавзолей Калдыргач-бия Ташкент",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b13ec9429776.jpg",
+      "caption": "",
+      "source": "uzbekistan.travel",
+      "original_width": "1100px",
+      "original_height": "733px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/597b37db0792.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2dfe5ba8ae7d.jpg",
+      "caption": "",
+      "source": "PastVu",
+      "original_width": "1079px",
+      "original_height": "1637px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b0252879fc5c.jpeg",
+      "caption": "",
+      "source": "NUR.KZ",
+      "original_width": "1120px",
+      "original_height": "840px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8eaff68c861c.jpeg",
+      "caption": "",
+      "source": "turan-travel.com",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/114a49bc37d5.jpg",
+      "caption": "",
+      "source": "Гуру Туризма",
+      "original_width": "1920px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d0198cb0f11c.jpg",
+      "caption": "",
+      "source": "Турнавигатор",
+      "original_width": "1365px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/78216fcef53a.jpg",
+      "caption": "",
+      "source": "Турнавигатор",
+      "original_width": "1536px",
+      "original_height": "1024px"
+    }
+  ]
+}

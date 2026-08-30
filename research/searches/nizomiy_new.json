@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "памятник Низами Ташкент сегодня",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/680a888a84eb.jpg",
+      "caption": "",
+      "source": "Trend",
+      "original_width": "1527px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1f8759aca015.jpg",
+      "caption": "",
+      "source": "President.az",
+      "original_width": "2360px",
+      "original_height": "1196px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c49760271f6d.jpg",
+      "caption": "",
+      "source": "Yuz.uz",
+      "original_width": "1184px",
+      "original_height": "675px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2aa5384555fb.jpg",
+      "caption": "",
+      "source": "АПА",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5ed94c478d2c.jpg",
+      "caption": "",
+      "source": "Armiya.az",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e71f785d0024.jpg",
+      "caption": "",
+      "source": "Vesti.az",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f6b0bb693957.jpg",
+      "caption": "",
+      "source": "Близкое эхо",
+      "original_width": "957px",
+      "original_height": "1280px"
+    }
+  ]
+}

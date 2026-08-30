@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "Александровский пассаж Ташкент старая фотография",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8fd218d92902.jpg",
+      "caption": "",
+      "source": "Русский Туркестан - LiveJournal",
+      "original_width": "3210px",
+      "original_height": "2392px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/33c059b0dac0.jpg",
+      "caption": "",
+      "source": "Русский Туркестан - LiveJournal",
+      "original_width": "1642px",
+      "original_height": "1142px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2f9a57027968.jpg",
+      "caption": "",
+      "source": "Старый Ташкент",
+      "original_width": "1147px",
+      "original_height": "946px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9826b38997b7.jpg",
+      "caption": "",
+      "source": "YouTravel.Me",
+      "original_width": "1500px",
+      "original_height": "1126px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/452f7090ce1e.jpg",
+      "caption": "",
+      "source": "Российский государственный педагогический университет им. А. И. Герцена",
+      "original_width": "1440px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1d431478cda2.jpg",
+      "caption": "",
+      "source": "YouTravel.Me",
+      "original_width": "1500px",
+      "original_height": "2000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/85be5ab743d3.jpg",
+      "caption": "",
+      "source": "Interlux Vacation Club",
+      "original_width": "1100px",
+      "original_height": "736px"
+    }
+  ]
+}

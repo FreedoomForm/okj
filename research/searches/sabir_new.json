@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "памятник Сабиру Ташкент сегодня",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b7683004f0c4.jpg",
+      "caption": "",
+      "source": "Informburo.kz",
+      "original_width": "1288px",
+      "original_height": "858px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4c4e1f72f45e.jpg",
+      "caption": "",
+      "source": "РИА Новости",
+      "original_width": "768px",
+      "original_height": "1146px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e8ee150dfadd.jpg",
+      "caption": "",
+      "source": "AsiaTerra",
+      "original_width": "2000px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/31225a4623a9.jpg",
+      "caption": "",
+      "source": "AsiaTerra",
+      "original_width": "2250px",
+      "original_height": "1500px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d95cca7c3827.jpg",
+      "caption": "",
+      "source": "kz24.news",
+      "original_width": "1200px",
+      "original_height": "773px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1faf52ffac78.jpeg",
+      "caption": "",
+      "source": "Yep.uz",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7653de71734f.jpg",
+      "caption": "",
+      "source": "Kun.uz",
+      "original_width": "1200px",
+      "original_height": "675px"
+    }
+  ]
+}

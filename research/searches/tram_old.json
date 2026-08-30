@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Tashkent tram 1970s vintage historical photo",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0248d1cf6672.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f4b4f763cd6a.jpg",
+      "caption": "",
+      "source": "Dreamstime.com",
+      "original_width": "1600px",
+      "original_height": "990px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/12479e96200b.jpg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "6000px",
+      "original_height": "4000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9bb095529998.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "975px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c2b4e3a43172.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3c6ab00767ed.jpg",
+      "caption": "",
+      "source": "Designboom",
+      "original_width": "818px",
+      "original_height": "1436px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/36e01b54e6c9.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/110b7e01b5a5.jpg",
+      "caption": "",
+      "source": "AniolVisuals",
+      "original_width": "1600px",
+      "original_height": "2000px"
+    }
+  ]
+}

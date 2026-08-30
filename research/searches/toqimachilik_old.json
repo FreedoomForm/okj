@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "Ташкентский текстильный комбинат старая фотография",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7451029f75bc.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/57f0961a9c01.jpg",
+      "caption": "",
+      "source": "The Art Newspaper Russia",
+      "original_width": "960px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f548afa78cdb.jpg",
+      "caption": "",
+      "source": "TEHNE.com",
+      "original_width": "1020px",
+      "original_height": "1697px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c3f83880e11b.png",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "1920px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5e61445e68d7.jpg",
+      "caption": "",
+      "source": "Tours Uzbekistan & Central Asia Private and Group Tours 2026! Dolores Travel",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a3d627950585.jpg",
+      "caption": "",
+      "source": "Официальный интерактивный портал хокимията города Ташкента",
+      "original_width": "1920px",
+      "original_height": "1440px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d8e215e81c93.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "900px"
+    }
+  ]
+}

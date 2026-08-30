@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "query": "площадь Хадра Ташкент старое фото",
+  "count": 4,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f133130013bb.jpg",
+      "caption": "",
+      "source": "Официальный интерактивный портал хокимията города Ташкента",
+      "original_width": "1800px",
+      "original_height": "866px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1e20796f41c0.jpg",
+      "caption": "",
+      "source": "Spot.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/10ec8b6ca39c.jpg",
+      "caption": "",
+      "source": "34travel",
+      "original_width": "2255px",
+      "original_height": "3007px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ac906a6b5ca4.jpg",
+      "caption": "",
+      "source": "MIRZO Boutique HOTEL",
+      "original_width": "1920px",
+      "original_height": "1280px"
+    }
+  ]
+}

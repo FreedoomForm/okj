@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "костёл Ташкент Сердце Иисуса старая фотография",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/548cf7674f81.jpg",
+      "caption": "",
+      "source": "Экстрагид",
+      "original_width": "760px",
+      "original_height": "1350px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/09cc8198b522.jpg",
+      "caption": "",
+      "source": "Sputnik8",
+      "original_width": "6000px",
+      "original_height": "4004px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4efd5fe3d3b9.jpeg",
+      "caption": "",
+      "source": "Фергана",
+      "original_width": "1649px",
+      "original_height": "921px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/575892ce7c7e.jpg",
+      "caption": "",
+      "source": "Клуб Приключений",
+      "original_width": "960px",
+      "original_height": "1441px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d826bf562db0.jpg",
+      "caption": "",
+      "source": "uzbekistan.travel",
+      "original_width": "5184px",
+      "original_height": "3456px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/30dc8e2e3eb2.jpeg",
+      "caption": "",
+      "source": "TengriNews",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0ea304a81259.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1680px",
+      "original_height": "1120px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b3fc03748398.jpg",
+      "caption": "",
+      "source": "Экстрагид",
+      "original_width": "1600px",
+      "original_height": "1600px"
+    }
+  ]
+}

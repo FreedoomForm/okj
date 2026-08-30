@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Государственная консерватория Узбекистана Ташкент сегодня",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9f75a32abcd2.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "720px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1de02484c1c1.jpg",
+      "caption": "",
+      "source": "Генеральное консульство Республики Узбекистан в городе Новосибирск",
+      "original_width": "1280px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d78c0b2cac56.jpg",
+      "caption": "",
+      "source": "Новости Узбекистана",
+      "original_width": "2560px",
+      "original_height": "1440px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a4d65c71042d.jpg",
+      "caption": "",
+      "source": "dsmi.uz",
+      "original_width": "1920px",
+      "original_height": "744px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b13655d23152.jpg",
+      "caption": "",
+      "source": "Новосибирская государственная консерватория имени М. И. Глинки",
+      "original_width": "680px",
+      "original_height": "1170px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/805c14d3eec6.jpg",
+      "caption": "",
+      "source": "gtickets.uz",
+      "original_width": "1652px",
+      "original_height": "606px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c79cdc142e6d.jpg",
+      "caption": "",
+      "source": "UzNews.uz",
+      "original_width": "1434px",
+      "original_height": "804px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/84f87016389b.jpg",
+      "caption": "",
+      "source": "ANONS.uz",
+      "original_width": "960px",
+      "original_height": "1280px"
+    }
+  ]
+}

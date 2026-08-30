@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Ташкентский текстильный комбинат сегодня",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d1af9c969666.jpg",
+      "caption": "",
+      "source": "NOVA24.UZ — Новости Узбекистана",
+      "original_width": "1280px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f7ecce1670a8.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7451029f75bc.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4aa322185b38.png",
+      "caption": "",
+      "source": "Ташкентский Трубный Завод",
+      "original_width": "2538px",
+      "original_height": "1158px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/26948ebaa4a8.jpg",
+      "caption": "",
+      "source": "Yuz.uz",
+      "original_width": "980px",
+      "original_height": "1224px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/aae579009af5.png",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "1920px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e98ba2012d89.jpg",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/72ca321a472e.jpeg",
+      "caption": "",
+      "source": "Бакинский рабочий",
+      "original_width": "1440px",
+      "original_height": "1080px"
+    }
+  ]
+}

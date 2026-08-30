@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "драматический театр Хамзы Ташкент старая фотография",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8706155ee687.jpg",
+      "caption": "",
+      "source": "Afisha.uz",
+      "original_width": "1500px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/23f037c2c1ed.jpg",
+      "caption": "",
+      "source": "Старый Ташкент",
+      "original_width": "1400px",
+      "original_height": "965px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5b6e426732e6.jpg",
+      "caption": "",
+      "source": "Газета.uz - Gazeta.uz",
+      "original_width": "1256px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/33db3486b376.jpg",
+      "caption": "",
+      "source": "uzbekistan.travel",
+      "original_width": "1100px",
+      "original_height": "733px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/46dfa015bdc7.jpg",
+      "caption": "",
+      "source": "Официальный интерактивный портал хокимията города Ташкента",
+      "original_width": "1400px",
+      "original_height": "717px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/efccde89fcf2.jpg",
+      "caption": "",
+      "source": "t.me",
+      "original_width": "1200px",
+      "original_height": "770px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f9aa2f4f4197.jpg",
+      "caption": "",
+      "source": "Порталус",
+      "original_width": "711px",
+      "original_height": "1154px"
+    }
+  ]
+}

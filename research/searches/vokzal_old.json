@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Tashkent railway station old historical photograph",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2d7d38be6184.jpeg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "1417px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9c641f85a993.jpg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "1200px",
+      "original_height": "783px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f0ec98ef0dd4.jpg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "4284px",
+      "original_height": "5712px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7acefabbc977.jpg",
+      "caption": "",
+      "source": "two flashpackers",
+      "original_width": "1280px",
+      "original_height": "640px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2948fe4deffd.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1048e92b2537.jpg",
+      "caption": "",
+      "source": "Colossal",
+      "original_width": "1920px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6d6ada735f9f.jpeg",
+      "caption": "",
+      "source": "Uzbekistan",
+      "original_width": "1024px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3743ada23896.jpg",
+      "caption": "",
+      "source": "Structurae",
+      "original_width": "1200px",
+      "original_height": "800px"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+name: fetch-sheets
+on:
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: 'Space-separated site ids (empty = all complete in manifest)'
+        required: false
+        default: ''
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pillow
+      - run: python3 ci/fetch_images.py --shard ${{ matrix.shard }} --shards 6 --ids "${{ github.event.inputs.ids }}"
+      - run: python3 ci/build_sheets.py --shard ${{ matrix.shard }} --shards 6 --ids "${{ github.event.inputs.ids }}"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: sheets-shard-${{ matrix.shard }}
+          path: output/
+          retention-days: 14

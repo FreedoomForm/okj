@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "Ташкентская синагога сегодня",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7ff6bed705c8.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "1778px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c3f83880e11b.png",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "1920px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3fd7095ed228.jpg",
+      "caption": "",
+      "source": "Наш Техас",
+      "original_width": "1080px",
+      "original_height": "810px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/08a726d94a9b.jpg",
+      "caption": "",
+      "source": "Новости Узбекистана",
+      "original_width": "1024px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/860efd8b5b91.jpg",
+      "caption": "",
+      "source": "34travel",
+      "original_width": "3024px",
+      "original_height": "4032px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/188b5d930c00.jpg",
+      "caption": "",
+      "source": "Darsik",
+      "original_width": "2048px",
+      "original_height": "1365px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e44241d6885e.jpg",
+      "caption": "",
+      "source": "Александр Бурьяк",
+      "original_width": "1202px",
+      "original_height": "910px"
+    }
+  ]
+}

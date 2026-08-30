@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Tashkent circus building old historical photo",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cd0402859b63.jpg",
+      "caption": "",
+      "source": "Budget Bucket List",
+      "original_width": "1063px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5bb8d715b6b1.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "954px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/be247f165561.jpg",
+      "caption": "",
+      "source": "STIRworld",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8e34a32e1743.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a3bc567f7173.jpeg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "1600px",
+      "original_height": "1067px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/911148c296cd.jpg",
+      "caption": "",
+      "source": "STIRworld",
+      "original_width": "1395px",
+      "original_height": "927px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0bebd2bf734a.jpg",
+      "caption": "",
+      "source": "PIN–UP Magazine",
+      "original_width": "2000px",
+      "original_height": "1314px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bb656e771130.jpg",
+      "caption": "",
+      "source": "Been Around The Globe",
+      "original_width": "1024px",
+      "original_height": "768px"
+    }
+  ]
+}

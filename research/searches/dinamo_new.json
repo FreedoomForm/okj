@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "стадион Динамо Ташкент сегодня",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a373bab142b8.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "4000px",
+      "original_height": "3000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/11cc4a466f90.jpg",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "1920px",
+      "original_height": "1085px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ea8cd8deef4b.jpg",
+      "caption": "",
+      "source": "Avesta.tj",
+      "original_width": "1280px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d3e47538d6cc.jpg",
+      "caption": "",
+      "source": "UzNews.uz",
+      "original_width": "1434px",
+      "original_height": "804px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5bc43bad6df2.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "960px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ddf3755869db.png",
+      "caption": "",
+      "source": "Динамо Киев от Шурика",
+      "original_width": "1200px",
+      "original_height": "750px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2b34d4f1af01.jpg",
+      "caption": "",
+      "source": "UzNews.uz",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8c8dfed48d59.jpg",
+      "caption": "",
+      "source": "UzNews.uz",
+      "original_width": "1280px",
+      "original_height": "852px"
+    }
+  ]
+}

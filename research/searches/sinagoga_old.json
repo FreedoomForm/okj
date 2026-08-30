@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "Ташкентская синагога старая фотография",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c3f83880e11b.png",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "1920px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d0ff8a949d10.jpg",
+      "caption": "",
+      "source": "Dreamstime",
+      "original_width": "1600px",
+      "original_height": "1157px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/58ffed68d457.jpg",
+      "caption": "",
+      "source": "Advantour",
+      "original_width": "1800px",
+      "original_height": "1199px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/dca8d7e29f3c.jpg",
+      "caption": "",
+      "source": "Институт евро-азиатских еврейский исследований - Евро-Азиатский Еврейский  Конгресс",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b07849bf75a6.jpg",
+      "caption": "",
+      "source": "Александр Бурьяк",
+      "original_width": "1212px",
+      "original_height": "653px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cae3f4ed1c6d.jpg",
+      "caption": "",
+      "source": "Петропавловск.news",
+      "original_width": "1209px",
+      "original_height": "761px"
+    }
+  ]
+}

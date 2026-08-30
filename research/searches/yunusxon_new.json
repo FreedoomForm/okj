@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "мавзолей Юнусхана Ташкент сегодня",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/02b1c6b167d2.jpg",
+      "caption": "",
+      "source": "Официальный интерактивный портал хокимията города Ташкента",
+      "original_width": "1683px",
+      "original_height": "1038px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3083c577a829.jpg",
+      "caption": "",
+      "source": "Enjourney: Лента",
+      "original_width": "1200px",
+      "original_height": "813px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/84b2885b56d9.jpg",
+      "caption": "",
+      "source": "Tours Uzbekistan & Central Asia Private and Group Tours 2026! Dolores Travel",
+      "original_width": "1920px",
+      "original_height": "1079px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7389eeccb58c.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "1080px",
+      "original_height": "810px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/114a49bc37d5.jpg",
+      "caption": "",
+      "source": "Гуру Туризма",
+      "original_width": "1920px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/545205158d40.png",
+      "caption": "",
+      "source": "TengriNews",
+      "original_width": "1920px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/29a7b449f237.jpg",
+      "caption": "",
+      "source": "uzbekistan.travel",
+      "original_width": "1100px",
+      "original_height": "825px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4e6ee7ffb0b7.jpeg",
+      "caption": "",
+      "source": "NUR.KZ",
+      "original_width": "1200px",
+      "original_height": "675px"
+    }
+  ]
+}

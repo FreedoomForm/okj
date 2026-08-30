@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "памятник Низами Ташкент старая фотография",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cf7420aa97ff.jpg",
+      "caption": "",
+      "source": "Старый Ташкент",
+      "original_width": "975px",
+      "original_height": "1400px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1edc1f4f4c18.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/50e4e90ca3e6.jpg",
+      "caption": "",
+      "source": "ДРЕВНИЙ ТАШКЕНТ И ТРАНСОКСИАНА",
+      "original_width": "923px",
+      "original_height": "1600px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/dea731d2561a.jpg",
+      "caption": "",
+      "source": "t.me",
+      "original_width": "1280px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8600294dc3ca.jpg",
+      "caption": "",
+      "source": "Платформа \"Зеленая энергия\"",
+      "original_width": "1200px",
+      "original_height": "750px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5352cc74dff4.jpg",
+      "caption": "",
+      "source": "Афиша Daily - Afisha.ru",
+      "original_width": "1500px",
+      "original_height": "1000px"
+    }
+  ]
+}

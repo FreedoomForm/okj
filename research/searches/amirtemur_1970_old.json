@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "площадь Карла Маркса Ташкент старое фото 1970-е",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1afb0e25aea0.jpg",
+      "caption": "",
+      "source": "Yep.uz",
+      "original_width": "973px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/069b7cf24e4a.jpg",
+      "caption": "",
+      "source": "Словари и энциклопедии на Академике",
+      "original_width": "2560px",
+      "original_height": "1920px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b11a8877bd63.jpg",
+      "caption": "",
+      "source": "Галерея автомотостарины",
+      "original_width": "1177px",
+      "original_height": "879px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b2a4b14b6a3a.jpg",
+      "caption": "",
+      "source": "Администрация Кировского района",
+      "original_width": "1575px",
+      "original_height": "664px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cf7420aa97ff.jpg",
+      "caption": "",
+      "source": "Старый Ташкент",
+      "original_width": "975px",
+      "original_height": "1400px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c30494b1c963.jpg",
+      "caption": "",
+      "source": "Словари и энциклопедии на Академике",
+      "original_width": "1283px",
+      "original_height": "1631px"
+    }
+  ]
+}

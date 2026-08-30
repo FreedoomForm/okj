@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "мавзолей Шейхантаур Ташкент сегодня",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5fa3ac661880.jpg",
+      "caption": "",
+      "source": "uzbekistan.travel",
+      "original_width": "1100px",
+      "original_height": "733px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fbac85818018.jpg",
+      "caption": "",
+      "source": "Avesta.tj",
+      "original_width": "1920px",
+      "original_height": "1296px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cda54eb8fc23.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e3550e8a5f7d.jpg",
+      "caption": "",
+      "source": "Гуру Туризма",
+      "original_width": "1920px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/67f5a7c06f83.png",
+      "caption": "",
+      "source": "Телеканал Поехали!",
+      "original_width": "1620px",
+      "original_height": "1080px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6d857ebe33d6.jpg",
+      "caption": "",
+      "source": "Телеканал Поехали!",
+      "original_width": "1280px",
+      "original_height": "906px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cb723d723f93.jpg",
+      "caption": "",
+      "source": "Турнавигатор",
+      "original_width": "1600px",
+      "original_height": "900px"
+    }
+  ]
+}

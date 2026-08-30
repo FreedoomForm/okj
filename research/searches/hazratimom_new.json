@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Хазрати Имам комплекс Ташкент сегодня",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c0842a1a16b9.jpg",
+      "caption": "",
+      "source": "uzbekistan.travel",
+      "original_width": "1100px",
+      "original_height": "733px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/618cfdcb325d.jpg",
+      "caption": "",
+      "source": "Туристический гид, путеводители, советы и рекомендации для туристов -  PlanetofHotels.com",
+      "original_width": "2400px",
+      "original_height": "1350px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5b0474f08e79.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3c05adb1ff28.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a6233ebdfca5.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "6232px",
+      "original_height": "3655px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b15b3e854d3b.jpg",
+      "caption": "",
+      "source": "Central Asia Travel",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0a06e7b5f121.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1100px",
+      "original_height": "1100px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2e36b38a28f7.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    }
+  ]
+}

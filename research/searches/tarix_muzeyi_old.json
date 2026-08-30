@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "музей Ленина Ташкент старая фотография здание",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7e9da7d06b0d.jpg",
+      "caption": "",
+      "source": "Тульский историко-архитектурный музей",
+      "original_width": "1299px",
+      "original_height": "2006px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/acf8c0c4b24e.jpg",
+      "caption": "",
+      "source": "Perspectum",
+      "original_width": "1280px",
+      "original_height": "700px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d425b37dae5f.jpg",
+      "caption": "",
+      "source": "Архи Ру",
+      "original_width": "1200px",
+      "original_height": "799px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1c038b95da1e.jpg",
+      "caption": "",
+      "source": "Словари и энциклопедии на Академике",
+      "original_width": "1275px",
+      "original_height": "1000px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d53e0bff494c.jpg",
+      "caption": "",
+      "source": "Informburo.kz",
+      "original_width": "965px",
+      "original_height": "1719px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/def01b11678a.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    }
+  ]
+}

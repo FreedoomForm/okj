@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "Кукельдаш медресе Ташкент сегодня фото",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/217a7281a84e.jpg",
+      "caption": "",
+      "source": "Sputnik Узбекистан",
+      "original_width": "2072px",
+      "original_height": "1167px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cd53860d974e.jpg",
+      "caption": "",
+      "source": "Маршрут построен",
+      "original_width": "1108px",
+      "original_height": "1477px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3ba6c969c57d.jpg",
+      "caption": "",
+      "source": "Маршрут построен",
+      "original_width": "1800px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4a17c777d135.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "4000px",
+      "original_height": "1848px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e4ad250b87fd.jpg",
+      "caption": "",
+      "source": "Sputnik8",
+      "original_width": "1932px",
+      "original_height": "1317px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3d9a888b635b.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "1080px",
+      "original_height": "1920px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/691d6d65c868.jpg",
+      "caption": "",
+      "source": "Маршрут построен",
+      "original_width": "1108px",
+      "original_height": "1477px"
+    }
+  ]
+}

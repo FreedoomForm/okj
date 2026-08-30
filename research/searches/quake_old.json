@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Tashkent 1966 earthquake destruction historical photo",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e9c0661bd20e.jpg",
+      "caption": "",
+      "source": "Reddit",
+      "original_width": "2004px",
+      "original_height": "1306px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0484e2c84174.jpg",
+      "caption": "",
+      "source": "Uzbek Travel",
+      "original_width": "2048px",
+      "original_height": "1365px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4cf3ae086bb2.jpg",
+      "caption": "",
+      "source": "STIRworld",
+      "original_width": "1600px",
+      "original_height": "1092px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b721aeead28a.jpg",
+      "caption": "",
+      "source": "Uzbek Travel",
+      "original_width": "2048px",
+      "original_height": "1529px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b73c98cd78ad.jpg",
+      "caption": "",
+      "source": "Uzbek Travel",
+      "original_width": "1024px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/23503c5c865b.jpg",
+      "caption": "",
+      "source": "x.com",
+      "original_width": "1200px",
+      "original_height": "675px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/af31b1e78a2e.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/663ebac65034.jpg",
+      "caption": "",
+      "source": "Tripbase",
+      "original_width": "1600px",
+      "original_height": "900px"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "медресе Абдулкасыма Ташкент старая фотография",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2854d0cfc187.jpg",
+      "caption": "",
+      "source": "OrexCA.com",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fd412155200e.jpg",
+      "caption": "",
+      "source": "Туристический гид, путеводители, советы и рекомендации для туристов -  PlanetofHotels.com",
+      "original_width": "2400px",
+      "original_height": "1350px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ff361d07bf75.jpg",
+      "caption": "",
+      "source": "uzbekistan.travel",
+      "original_width": "1100px",
+      "original_height": "733px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/645c454fbdd2.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8924d9c1354b.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "5712px",
+      "original_height": "4284px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c86ee9a9da4c.jpg",
+      "caption": "",
+      "source": "Дневник путешествий - Global Guide",
+      "original_width": "2560px",
+      "original_height": "1707px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2a6034e53f04.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "1080px",
+      "original_height": "1920px"
+    }
+  ]
+}

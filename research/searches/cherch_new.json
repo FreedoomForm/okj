@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "костёл Сердце Иисуса Ташкент сегодня",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/18ac1a8702b7.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1100px",
+      "original_height": "1100px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/382aeb710f8b.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4d0b943319e8.jpeg",
+      "caption": "",
+      "source": "catholics-in-tashkent.org",
+      "original_width": "1280px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4f4fc551f102.jpg",
+      "caption": "",
+      "source": "Sputnik8",
+      "original_width": "1600px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/759130c49712.jpg",
+      "caption": "",
+      "source": "Агентство новостей Podrobno.uz",
+      "original_width": "1024px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/92c90cd5cf0e.jpg",
+      "caption": "",
+      "source": "Minzifa Travel",
+      "original_width": "768px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8734ca6a7dc4.jpg",
+      "caption": "",
+      "source": "Gelio - LiveJournal",
+      "original_width": "1100px",
+      "original_height": "733px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9ef946d40009.jpg",
+      "caption": "",
+      "source": "Экстрагид",
+      "original_width": "1280px",
+      "original_height": "852px"
+    }
+  ]
+}

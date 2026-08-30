@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "площадь Хадра Ташкент сегодня",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/65b149a3a449.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1bb02189c2a0.jpg",
+      "caption": "",
+      "source": "34travel",
+      "original_width": "1000px",
+      "original_height": "1333px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c6e1899237a1.jpg",
+      "caption": "",
+      "source": "Perspectum",
+      "original_width": "1280px",
+      "original_height": "700px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/363072fc7285.jpg",
+      "caption": "",
+      "source": "Novotours Silk Road",
+      "original_width": "1280px",
+      "original_height": "854px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/fe7c667d5c60.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2c1e7f945e9e.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "1179px",
+      "original_height": "2098px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/189f6085d7d1.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2e69e571aa8e.jpg",
+      "caption": "",
+      "source": "Spot.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    }
+  ]
+}

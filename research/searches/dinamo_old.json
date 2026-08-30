@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "стадион Динамо Ташкент старая фотография",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6fe562fd3d26.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1200px",
+      "original_height": "1200px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9a4b21ea8809.jpg",
+      "caption": "",
+      "source": "БНТУ",
+      "original_width": "1200px",
+      "original_height": "671px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/994aabfc988e.jpg",
+      "caption": "",
+      "source": "Айра",
+      "original_width": "2000px",
+      "original_height": "1333px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c0681a1da0f7.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "4032px",
+      "original_height": "3024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/510632245b65.jpg",
+      "caption": "",
+      "source": "Zamin.uz",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/403065984d26.jpg",
+      "caption": "",
+      "source": "Узбекистан: блокнот исследователя",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a3767eac8ac1.jpg",
+      "caption": "",
+      "source": "Правительство Брянской области",
+      "original_width": "1920px",
+      "original_height": "1152px"
+    }
+  ]
+}

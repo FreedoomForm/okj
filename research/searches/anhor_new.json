@@ -1,0 +1,51 @@
+{
+  "success": true,
+  "query": "канал Анхор Ташкент сегодня набережная",
+  "count": 6,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/02b22784b3bc.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6621d01b4e3f.jpg",
+      "caption": "",
+      "source": "Centrum Air",
+      "original_width": "5403px",
+      "original_height": "3602px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cef4ec49569e.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/904e7880d11e.jpg",
+      "caption": "",
+      "source": "Anhor.uz",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bf6ff2bf8124.jpg",
+      "caption": "",
+      "source": "ANONS.uz",
+      "original_width": "5212px",
+      "original_height": "2932px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ea92b2551790.jpg",
+      "caption": "",
+      "source": "Shosh.uz",
+      "original_width": "1000px",
+      "original_height": "1082px"
+    }
+  ]
+}

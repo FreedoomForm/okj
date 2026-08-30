@@ -1,0 +1,37 @@
+{
+  "success": true,
+  "query": "Ташкентский вокзал 1900-е старая фотография",
+  "count": 4,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f6dd815a4e3c.jpg",
+      "caption": "",
+      "source": "Русский Туркестан - LiveJournal",
+      "original_width": "1264px",
+      "original_height": "850px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/007430c276a1.jpg",
+      "caption": "",
+      "source": "Русский Туркестан - LiveJournal",
+      "original_width": "2834px",
+      "original_height": "1964px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b92584b48941.jpg",
+      "caption": "",
+      "source": "Словари и энциклопедии на Академике",
+      "original_width": "1280px",
+      "original_height": "859px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cf7420aa97ff.jpg",
+      "caption": "",
+      "source": "Старый Ташкент",
+      "original_width": "975px",
+      "original_height": "1400px"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "Александровский пассаж Ташкент сегодня",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/52c3ccc0dfce.jpg",
+      "caption": "",
+      "source": "Газета «Республика Татарстан",
+      "original_width": "1280px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/561455670c4d.jpg",
+      "caption": "",
+      "source": "ShopAndMall.ru",
+      "original_width": "1024px",
+      "original_height": "768px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/998fb4851e62.jpg",
+      "caption": "",
+      "source": "Пикабу",
+      "original_width": "1200px",
+      "original_height": "900px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e8ec39c9e254.jpg",
+      "caption": "",
+      "source": "Газета «Республика Татарстан",
+      "original_width": "960px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/aa15b67f3f34.jpg",
+      "caption": "",
+      "source": "Enjourney: Лента",
+      "original_width": "1200px",
+      "original_height": "803px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/62107f843b9e.jpg",
+      "caption": "",
+      "source": "БИЗНЕС Online",
+      "original_width": "1280px",
+      "original_height": "960px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/67e55e438011.jpg",
+      "caption": "",
+      "source": "Enjourney: Лента",
+      "original_width": "1200px",
+      "original_height": "800px"
+    }
+  ]
+}

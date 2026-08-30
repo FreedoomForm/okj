@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "мечеть Джами Ташкент сегодня фото",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7fc463b9b595.jpg",
+      "caption": "",
+      "source": "Управление мусульман Узбекистана",
+      "original_width": "1280px",
+      "original_height": "857px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c93e3b5b10a9.jpg",
+      "caption": "",
+      "source": "n9i - LiveJournal",
+      "original_width": "2560px",
+      "original_height": "2048px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ace7d3b0ae8e.jpg",
+      "caption": "",
+      "source": "Avesta.tj",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6bec5f7c26ef.jpg",
+      "caption": "",
+      "source": "Gazeta.uz",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5b751409a59d.jpg",
+      "caption": "",
+      "source": "Новости Узбекистана",
+      "original_width": "1280px",
+      "original_height": "1044px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d080d634e280.jpg",
+      "caption": "",
+      "source": "president.uz",
+      "original_width": "1900px",
+      "original_height": "1266px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/dedd3d5dcc2e.jpg",
+      "caption": "",
+      "source": "PAC Group",
+      "original_width": "1803px",
+      "original_height": "1200px"
+    }
+  ]
+}

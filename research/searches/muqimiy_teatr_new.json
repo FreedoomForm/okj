@@ -1,0 +1,58 @@
+{
+  "success": true,
+  "query": "театр Мукими Ташкент сегодня",
+  "count": 7,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d5ca1b3f093b.jpg",
+      "caption": "",
+      "source": "Купить билеты в кино, театр и на концерт в Ташкенте",
+      "original_width": "1652px",
+      "original_height": "605px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c7514794f941.jpg",
+      "caption": "",
+      "source": "chilonzor.tashkent.uz",
+      "original_width": "1600px",
+      "original_height": "1018px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f4daa7f161a1.jpeg",
+      "caption": "",
+      "source": "Afisha.uz",
+      "original_width": "1280px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/555a3bede3a1.jpg",
+      "caption": "",
+      "source": "YouTube",
+      "original_width": "1280px",
+      "original_height": "720px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/aa47c4a5215d.jpg",
+      "caption": "",
+      "source": "OLX.uz",
+      "original_width": "720px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/77757465e6c5.jpg",
+      "caption": "",
+      "source": "Kun.uz",
+      "original_width": "1280px",
+      "original_height": "719px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/23f037c2c1ed.jpg",
+      "caption": "",
+      "source": "Старый Ташкент",
+      "original_width": "1400px",
+      "original_height": "965px"
+    }
+  ]
+}

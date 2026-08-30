@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "памятник Пушкину Ташкент сегодня",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ed56a60db447.jpg",
+      "caption": "",
+      "source": "Zamin.uz",
+      "original_width": "1280px",
+      "original_height": "719px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/365623ddbf72.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "1080px",
+      "original_height": "1920px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8d5a8bbf5f5e.jpg",
+      "caption": "",
+      "source": "PrimaMedia.ru",
+      "original_width": "960px",
+      "original_height": "1280px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/afa99bf9fd6d.jpg",
+      "caption": "",
+      "source": "Яндекс",
+      "original_width": "3024px",
+      "original_height": "4032px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/92d52d65b449.jpg",
+      "caption": "",
+      "source": "Словари и энциклопедии на Академике",
+      "original_width": "2448px",
+      "original_height": "3264px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1c2832ff0ed9.jpg",
+      "caption": "",
+      "source": "Словари и энциклопедии на Академике",
+      "original_width": "2304px",
+      "original_height": "3072px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/543a6f02aae1.jpg",
+      "caption": "",
+      "source": "LiveJournal",
+      "original_width": "1280px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9fd70350662f.jpg",
+      "caption": "",
+      "source": "IRecommend",
+      "original_width": "901px",
+      "original_height": "1200px"
+    }
+  ]
+}

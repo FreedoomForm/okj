@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Lenin square Tashkent Soviet era monument historical photo",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/745d3a29ed95.jpg",
+      "caption": "",
+      "source": "Canadian Centre for Architecture",
+      "original_width": "1400px",
+      "original_height": "1866px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8e76209ce767.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "966px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/af4425bd931e.jpg",
+      "caption": "",
+      "source": "Food Perestroika",
+      "original_width": "1500px",
+      "original_height": "1001px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/61770d32d93b.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "866px",
+      "original_height": "1390px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7826bccf8288.jpg",
+      "caption": "",
+      "source": "Alamy",
+      "original_width": "1300px",
+      "original_height": "956px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a3d2f072cdc1.jpg",
+      "caption": "",
+      "source": "Eurasianet",
+      "original_width": "1280px",
+      "original_height": "853px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2c25b9ea0dff.jpg",
+      "caption": "",
+      "source": "Tripadvisor",
+      "original_width": "1100px",
+      "original_height": "1100px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/79abd060b184.jpg",
+      "caption": "",
+      "source": "PIN–UP Magazine",
+      "original_width": "4000px",
+      "original_height": "3000px"
+    }
+  ]
+}
