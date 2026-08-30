@@ -93,8 +93,8 @@ def pair_page_html(p):
     font-size: 2.9mm; letter-spacing: 0.42mm; color: #896033; font-weight: 700; line-height: 1.5;
   }}
   .pagenum {{
-    position: absolute; top: 201.4mm; left: 0; right: 0; text-align: center;
-    font-size: 3.4mm; color: #5c4531;
+    position: absolute; top: 196.1mm; left: 0; right: 0; text-align: center;
+    font-size: 3.4mm; line-height: 1.2; color: #5c4531;
   }}
 </style>
 </head>
