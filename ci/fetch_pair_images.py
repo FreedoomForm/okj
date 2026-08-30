@@ -46,6 +46,13 @@ def fetch(p):
         if os.path.exists(out) and os.path.getsize(out) > 20000:
             res.append(f"{key}:exists")
             continue
+        # prefer pre-committed, already-verified pair images
+        committed = os.path.join(ROOT, "album", "pair_images", os.path.basename(out))
+        if os.path.exists(committed):
+            import shutil
+            shutil.copyfile(committed, out)
+            res.append(f"{key}:committed")
+            continue
         url = p.get(key)
         if not url:
             res.append(f"{key}:NO-URL")
