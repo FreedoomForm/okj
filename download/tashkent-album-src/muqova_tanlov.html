@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,600&family=PT+Serif:ital@0;1&display=swap" rel="stylesheet">
+<style>
+  @page { size: 297mm 210mm; margin: 0; }
+  html, body { margin: 0; padding: 0; background: #f6efe0; }
+  .poster {
+    position: relative; width: 297mm; height: 210mm;
+    background: #f6efe0; overflow: hidden;
+    font-family: 'PT Serif', Georgia, serif; color: #3d2b1f;
+  }
+  .frame  { position: absolute; inset: 6mm;    border: 0.65mm solid #896033; pointer-events: none; }
+  .frame2 { position: absolute; inset: 8.4mm;  border: 0.22mm solid #896033; pointer-events: none; }
+  .col {
+    position: absolute; inset: 8.4mm; display: flex; flex-direction: column;
+    align-items: center; text-align: center; padding: 7mm 0 5.5mm;
+  }
+  .kicker {
+    font-size: 3.7mm; letter-spacing: 1.5mm; color: #ac9983;
+    font-family: 'PT Serif', serif; font-weight: 700;
+  }
+  .dedic {
+    margin-top: 3.2mm; font-size: 4.35mm; letter-spacing: 0.55mm; color: #896033;
+    font-weight: 700; display: flex; align-items: center; gap: 3.5mm;
+  }
+  .dedic .rule { width: 16mm; height: 0.3mm; background: #c9b391; }
+  h1 {
+    margin: 2.5mm 0 0; font-family: 'Playfair Display', Georgia, serif;
+    font-weight: 900; font-size: 17.2mm; line-height: 1.02;
+    letter-spacing: 3.2mm; color: #3d2b1f; text-indent: 3.2mm;
+  }
+  .subtitle {
+    margin-top: 1.2mm; font-family: 'Playfair Display', Georgia, serif;
+    font-style: italic; font-weight: 600; font-size: 8.6mm; color: #5c4531;
+  }
+  .fleuron { margin-top: 1.6mm; font-size: 5.4mm; color: #896033; line-height: 1; }
+  .photo-card {
+    margin-top: 3.6mm; width: 152mm; background: #fffdf6;
+    padding: 3.4mm 3.4mm 2.6mm; box-shadow: 0 1.2mm 3.5mm rgba(61,43,31,.28);
+  }
+  .photo-card img { width: 100%; height: 62mm; object-fit: cover; display: block; }
+  .photo-card figcaption {
+    margin-top: 2mm; font-style: italic; font-size: 3.35mm; color: #5c4531;
+  }
+  .author {
+    margin-top: 4.6mm; font-size: 4.25mm; color: #5d4632; font-weight: 700;
+    letter-spacing: 0.28mm;
+  }
+  .author .sep { color: #ac9983; padding: 0 1.6mm; }
+  .strip {
+    margin-top: 4.2mm; font-size: 3.55mm; letter-spacing: 0.95mm;
+    color: #5d4632; font-weight: 700;
+  }
+  .year { margin-top: 2.2mm; font-size: 3.2mm; letter-spacing: 1.1mm; color: #ac9983; }
+</style>
+</head>
+<body>
+  <div class="poster">
+    <div class="frame"></div><div class="frame2"></div>
+    <div class="col">
+      <div class="kicker">TARIXIY FOTOALBOM &middot; 1900&ndash;2000-YILLAR</div>
+      <div class="dedic">
+        <span class="rule"></span>
+        <span>O&lsquo;ZBEKISTON RESPUBLIKASI MUSTAQILLIGINING 35 YILLIGIGA BAG&lsquo;ISHLANGAN</span>
+        <span class="rule"></span>
+      </div>
+      <h1>TOSHKENT</h1>
+      <div class="subtitle">Kecha va Bugun</div>
+      <div class="fleuron">&#10087;</div>
+      <figure class="photo-card">
+        <img src="assets/cover_photo.jpg" alt="Amir Temur xiyoboni, 1910-yillar">
+        <figcaption>Sobiq Kaufman skveri &mdash; Amir Temur xiyoboni, 1910-yillar</figcaption>
+      </figure>
+      <div class="author">Muallif: Asilbekov Ozodbek<span class="sep">&middot;</span>Toshkent texnika universiteti (ToshTech)</div>
+      <div class="strip">20 TA JOY &middot; 40 TA SURAT &middot; HAR BIR JUFTLIK GOOGLE MAPS KOORDINATALARI BILAN</div>
+      <div class="year">TOSHKENT &mdash; 2026</div>
+    </div>
+  </div>
+</body>
+</html>

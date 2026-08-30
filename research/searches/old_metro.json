@@ -1,0 +1,65 @@
+{
+  "success": true,
+  "query": "Tashkent metro subway station 1980s Soviet photo",
+  "count": 8,
+  "ranked": false,
+  "captioned_count": 0,
+  "results": [
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/365d842a3c39.jpg",
+      "caption": "",
+      "source": "COMRADE Gallery",
+      "original_width": "1200px",
+      "original_height": "800px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/01bea7396623.png",
+      "caption": "",
+      "source": "COMRADE Gallery",
+      "original_width": "4140px",
+      "original_height": "2680px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7d72ff356b61.jpg",
+      "caption": "",
+      "source": "Structurae",
+      "original_width": "1200px",
+      "original_height": "675px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/151743d6ba3c.jpg",
+      "caption": "",
+      "source": "Twin Perspectives",
+      "original_width": "800px",
+      "original_height": "1024px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/bd172c0a25ac.jpg",
+      "caption": "",
+      "source": "CNN",
+      "original_width": "1600px",
+      "original_height": "901px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/84cb448b35ce.jpg",
+      "caption": "",
+      "source": "Papercut Shop",
+      "original_width": "2363px",
+      "original_height": "945px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d2dc7f0f3eb7.jpg",
+      "caption": "",
+      "source": "uzbekistan.travel",
+      "original_width": "1100px",
+      "original_height": "733px"
+    },
+    {
+      "original_url": "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/1a6016db8ea9.jpg",
+      "caption": "",
+      "source": "Explore With Gaia",
+      "original_width": "1280px",
+      "original_height": "800px"
+    }
+  ]
+}

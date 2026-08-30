@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,600&family=PT+Serif:ital@0;1&display=swap" rel="stylesheet">
+<style>
+  @page { size: 297mm 210mm; margin: 0; }
+  html, body { margin: 0; padding: 0; background: #f6efe0; }
+  .poster {
+    position: relative; width: 297mm; height: 210mm;
+    background: #f6efe0; overflow: hidden;
+    font-family: 'PT Serif', Georgia, serif; color: #40301f;
+  }
+  .frame  { position: absolute; inset: 6mm;   border: 0.65mm solid #896033; pointer-events: none; }
+  .frame2 { position: absolute; inset: 8.4mm; border: 0.22mm solid #896033; pointer-events: none; }
+  .col {
+    position: absolute; inset: 8.4mm; display: flex; flex-direction: column;
+    padding: 11mm 20mm 8mm;
+  }
+  header { text-align: center; }
+  h1 {
+    margin: 0; font-family: 'Playfair Display', Georgia, serif; font-weight: 900;
+    font-size: 10.6mm; letter-spacing: 2.6mm; color: #3d2b1f; text-indent: 2.6mm;
+  }
+  .orn { display: flex; align-items: center; gap: 4mm; margin: 3.4mm auto 0; width: 78mm; }
+  .orn .rule { flex: 1; height: 0.3mm; background: #c9b391; }
+  .orn .mid { font-size: 4.6mm; color: #896033; line-height: 1; }
+  .body { margin-top: 6.2mm; font-size: 4.32mm; line-height: 1.62; text-align: justify; }
+  .body p { margin: 0 0 3.4mm; }
+  .body p:first-of-type::first-letter {
+    font-family: 'Playfair Display', Georgia, serif; font-weight: 900;
+    font-size: 11.5mm; color: #896033; float: left; line-height: 0.86;
+    padding: 0.8mm 2.2mm 0 0;
+  }
+  .body .sc { font-variant: small-caps; letter-spacing: 0.3mm; }
+  .quote {
+    margin: 1.2mm auto 0; width: 210mm; text-align: center; font-style: italic;
+    font-size: 4.5mm; color: #5c4531;
+  }
+  .sign { margin-top: auto; display: flex; justify-content: space-between; align-items: flex-end; }
+  .sign .left { font-style: italic; font-size: 3.7mm; color: #896033; }
+  .sign .right { text-align: right; }
+  .sign .name {
+    font-family: 'Playfair Display', Georgia, serif; font-weight: 700;
+    font-size: 5.2mm; color: #3d2b1f;
+  }
+  .sign .role { font-size: 3.7mm; color: #5d4632; margin-top: 1mm; }
+  .sign .place { font-size: 3.4mm; color: #ac9983; letter-spacing: 0.6mm; margin-top: 0.8mm; }
+</style>
+</head>
+<body>
+  <div class="poster">
+    <div class="frame"></div><div class="frame2"></div>
+    <div class="col">
+      <header>
+        <h1>MUALLIF SO&lsquo;ZI</h1>
+        <div class="orn"><span class="rule"></span><span class="mid">&#10087;</span><span class="rule"></span></div>
+      </header>
+      <div class="body">
+        <p>Men &mdash; <span class="sc">Asilbekov Ozodbek</span>, Toshkent texnika universiteti (ToshTech) talabasi. O&lsquo;zbekiston Respublikasi Mustaqilligining 35 yilligi munosabati bilan universitetimiz tomonidan e&lsquo;lon qilingan ijodiy tanlovda ishtirok etishga qaror qildim va &laquo;Eng yaxshi fotoalbom&raquo; nominatsiyasi uchun mana shu g&lsquo;oyani tanladim: Vatanimizning o&lsquo;tmishi va kelajagi &mdash; ya&lsquo;ni Toshkentning <i>&laquo;kechasi&raquo;</i> hamda <i>&laquo;buguni&raquo;</i> &mdash; eski va zamonaviy suratlarni yonma-yon qo&lsquo;yish orqali ifodalansin.</p>
+        <p>Ushbu albomda XX asr davomida olingan 20 ta eski surat bilan o&lsquo;sha joylarning bugungi qiyofasi solishtiriladi. Suratlarni bir-biriga qarasangiz, mustaqillik yillarida Vatanimizda qanday ulkan bunyodkorlik ishlari amalga oshirilgani, Toshkentning qanday yangilanib, betakror go&lsquo;zal shaharga aylangani ko&lsquo;rinib turadi. Eski surat &mdash; bizning ildizimiz, yangi surat esa bugungi kunimiz va kelajagimizdur: chunki bugun qurilayotgan har bir bino ertangi yurtimizning poydevoridir.</p>
+        <p>Har bir juftlik ostida joy nomi, geografik koordinatalar va Google Maps QR-kodi berilgan &mdash; istalgan manzarani o&lsquo;zining haqiqiy manzilida topib, solishtirib ko&lsquo;rish mumkin. Albomning bu &laquo;yonma-yon&raquo; uslubi o&lsquo;tmishni hurmat bilan eslash bilan birga, mustaqil O&lsquo;zbekistonning ulug&lsquo; yutuqlarini yaqqol namoyish etadi.</p>
+        <p>O&lsquo;z ijodiy ishimni Mustaqilligimizning 35 yilligiga bag&lsquo;ishlab, Vatanimiz obod, bayrog&lsquo;imiz abady baland bo&lsquo;lishini samimiy tilab qolaman. Vatan yashnasin, Toshkent yashnasin!</p>
+      </div>
+      <div class="sign">
+        <div class="left">&#10087; &laquo;Toshkent &mdash; Kecha va Bugun&raquo; ijodiy fotoalbomi</div>
+        <div class="right">
+          <div class="name">Asilbekov Ozodbek</div>
+          <div class="role">Toshkent texnika universiteti talabasi</div>
+          <div class="place">TOSHKENT &mdash; 2026</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
