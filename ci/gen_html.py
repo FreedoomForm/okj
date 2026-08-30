@@ -18,7 +18,7 @@ pages_gen.BASE = ROOT
 pages_gen.IMG = os.path.join(ROOT, "work", "pair_images")
 pages_gen.QR = os.path.join(ROOT, "work", "qr")
 pages_gen.OUT = PAGES
-os.makedirs(pages_gen.QR, exist_ok=True)
+pages_gen.ensure_dirs()
 
 ap = argparse.ArgumentParser()
 ap.add_argument("--shard", type=int, default=0)

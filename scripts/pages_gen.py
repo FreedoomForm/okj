@@ -12,7 +12,11 @@ SRC = f"{BASE}/download/tashkent-album-src"
 IMG = f"{BASE}/research/pair_images"       # selected pair photos (processed)
 QR = f"{SRC}/assets/qr"
 OUT = f"{BASE}/research/new_pages"
-os.makedirs(IMG, exist_ok=True); os.makedirs(QR, exist_ok=True); os.makedirs(OUT, exist_ok=True)
+
+
+def ensure_dirs():
+    for d in (IMG, QR, OUT):
+        os.makedirs(d, exist_ok=True)
 
 FONTS_LINK = '<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;0,900;1,400;1,600&family=PT+Serif:ital@0;1&display=swap" rel="stylesheet">'
 
