@@ -166,10 +166,14 @@ for c in sites:
         print(f"{cid}: no commons files")
         continue
     infos = imageinfo(titles)
+    VINT = re.compile(r"стар|открытк|postcard|vintage|1900|19[0-8]\d|советск|soviet|историч|прошл", re.I)
     olds = [t for t, v in infos.items() if v["year"] and v["year"] < 2000]
+    undated_vint = [t for t, v in infos.items()
+                    if v["year"] is None and VINT.search(t) or v["year"] is None and VINT.search(v.get("desc", ""))]
+    olds += undated_vint[:4]
     news = [t for t, v in infos.items() if v["year"] and v["year"] >= 2015]
     # prefer pre-1990 for old; keep undated with 'old-ish' hints out (strictness)
-    olds.sort(key=lambda t: infos[t]["year"])
+    olds.sort(key=lambda t: infos[t]["year"] or 1950)
     meta_all[cid] = {}
     jobs = []
     for i, t in enumerate(olds[:args.max_old]):
