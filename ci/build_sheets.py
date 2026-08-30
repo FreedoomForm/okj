@@ -50,8 +50,8 @@ def grid(files, cols=4):
     return g
 
 for cid in want:
-    olds = sorted(f for f in os.listdir(IMG) if f.startswith(f"{cid}_old_") and f.lower().endswith(VALID))
-    news = sorted(f for f in os.listdir(IMG) if f.startswith(f"{cid}_new_") and f.lower().endswith(VALID))
+    olds = sorted(f for f in os.listdir(IMG) if f.startswith((f"{cid}_old_", f"{cid}_cold_")) and f.lower().endswith(VALID))
+    news = sorted(f for f in os.listdir(IMG) if f.startswith((f"{cid}_new_", f"{cid}_cnew_")) and f.lower().endswith(VALID))
     if not olds and not news:
         continue
     g_old, g_new = grid(olds), grid(news)
@@ -59,7 +59,7 @@ for cid in want:
     TITLE = 46
     sheet = Image.new("RGB", (W, TITLE + g_old.height + g_new.height), "#111")
     d = ImageDraw.Draw(sheet)
-    d.text((10, 6), f"{cid}  OLD ({len(olds)}) top  /  NEW ({len(news)}) bottom", fill="#4dd0e1", font=title_font)
+    d.text((10, 6), f"{cid}  OLD+cold ({len(olds)}) top  /  NEW+cnew ({len(news)}) bottom", fill="#4dd0e1", font=title_font)
     sheet.paste(g_old, (0, TITLE))
     sheet.paste(g_new, (0, TITLE + g_old.height))
     sheet.save(os.path.join(OUT, f"{cid}.jpg"), quality=82)
