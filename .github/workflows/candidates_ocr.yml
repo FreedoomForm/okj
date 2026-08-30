@@ -1,0 +1,60 @@
+name: candidates-ocr
+on:
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Why this run'
+        required: false
+        default: ''
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pillow
+      - run: python3 ci/fetch_images.py --shard ${{ matrix.shard }} --shards 6
+      - run: python3 ci/fetch_commons.py --shard ${{ matrix.shard }} --shards 6
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cand-shard-${{ matrix.shard }}
+          path: work/images
+          retention-days: 10
+      - uses: actions/upload-artifact@v4
+        with:
+          name: meta-shard-${{ matrix.shard }}
+          path: output
+          retention-days: 10
+  ocr:
+    needs: fetch
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install pillow
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: cand-shard-*
+          path: work/images
+          merge-multiple: true
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: meta-shard-*
+          path: output
+          merge-multiple: true
+      - run: python3 ci/ocr_candidates.py
+        env:
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ocr-all
+          path: output/ocr
+          retention-days: 10
